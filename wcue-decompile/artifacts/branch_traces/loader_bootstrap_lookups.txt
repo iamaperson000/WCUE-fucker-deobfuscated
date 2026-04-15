@@ -1,0 +1,208 @@
+041: e <- W[b]
+044: y <- W[J]
+045: F <- DECODE(d, Q)
+047: n <- LOOKUP(y(d,Q))
+051: y <- W[b]
+053: F <- W[J]
+057: d <- DECODE(Q, o)
+059: e <- LOOKUP(F(Q,o))
+067: F <- W[b]
+069: d <- W[J]
+071: Q <- DECODE(o, h)
+072: y <- LOOKUP(d(o,h))
+078: d <- W[b]
+080: Q <- W[J]
+081: o <- DECODE(h, N)
+082: F <- LOOKUP(Q(h,N))
+091: Q <- W[b]
+093: o <- W[J]
+094: h <- DECODE(N, x)
+097: d <- LOOKUP(o(N,x))
+110: x <- W[b]
+112: m <- W[J]
+113: E <- DECODE(D, w)
+114: N <- LOOKUP(m(D,w))
+124: h <- W[b]
+127: N <- W[J]
+129: x <- DECODE(m, E)
+130: Q <- LOOKUP(N(m,E))
+135: o <- W[b]
+137: h <- W[J]
+138: N <- DECODE(x, m)
+139: d <- LOOKUP(h(x,m))
+142: x <- W[b]
+144: m <- W[J]
+145: E <- DECODE(D, w)
+146: N <- LOOKUP(m(D,w))
+150: m <- W[b]
+151: E <- W[J]
+153: D <- DECODE(w, t)
+156: x <- LOOKUP(E(w,t))
+160: x <- W[b]
+161: m <- W[J]
+162: E <- DECODE(D, w)
+163: d <- LOOKUP(m(D,w))
+167: m <- W[b]
+168: E <- W[J]
+169: D <- DECODE(w, t)
+172: d <- LOOKUP(E(w,t))
+188: IA <- W[b]
+190: aA <- W[J]
+191: KA <- DECODE(vA, SA)
+192: XA <- LOOKUP(aA(vA,SA))
+198: XA <- W[b]
+199: IA <- W[J]
+200: aA <- DECODE(KA, vA)
+201: HA <- LOOKUP(IA(KA,vA))
+204: KA <- W[b]
+205: vA <- W[J]
+206: SA <- DECODE(BA, WA)
+207: aA <- LOOKUP(vA(BA,WA))
+211: KA <- W[b]
+212: vA <- W[J]
+214: SA <- DECODE(BA, WA)
+216: aA <- LOOKUP(vA(BA,WA))
+218: aA <- W[b]
+220: KA <- W[J]
+221: vA <- DECODE(SA, BA)
+222: XA <- LOOKUP(KA(SA,BA))
+225: SA <- W[b]
+226: BA <- W[J]
+227: WA <- DECODE(AA, fA)
+228: vA <- LOOKUP(BA(AA,fA))
+232: SA <- W[b]
+233: BA <- W[J]
+234: WA <- DECODE(AA, fA)
+236: vA <- LOOKUP(BA(AA,fA))
+239: vA <- W[b]
+240: SA <- W[J]
+241: BA <- DECODE(WA, AA)
+242: aA <- LOOKUP(SA(WA,AA))
+245: WA <- W[b]
+246: AA <- W[J]
+247: fA <- DECODE(bA, RA)
+249: BA <- LOOKUP(AA(bA,RA))
+251: WA <- W[b]
+252: AA <- W[J]
+254: fA <- DECODE(bA, RA)
+256: BA <- LOOKUP(AA(bA,RA))
+259: BA <- W[b]
+261: WA <- W[J]
+262: AA <- DECODE(fA, bA)
+263: vA <- LOOKUP(WA(fA,bA))
+266: fA <- W[b]
+267: bA <- W[J]
+268: RA <- DECODE(JA, uA)
+269: AA <- LOOKUP(bA(JA,uA))
+272: fA <- W[b]
+273: bA <- W[J]
+275: RA <- DECODE(JA, uA)
+276: AA <- LOOKUP(bA(JA,uA))
+280: AA <- W[b]
+281: fA <- W[J]
+283: bA <- DECODE(RA, JA)
+284: BA <- LOOKUP(fA(RA,JA))
+287: RA <- W[b]
+288: JA <- W[J]
+289: uA <- DECODE(TA, jA)
+290: bA <- LOOKUP(JA(TA,jA))
+293: RA <- W[b]
+295: JA <- W[J]
+296: uA <- DECODE(TA, jA)
+297: bA <- LOOKUP(JA(TA,jA))
+299: bA <- W[b]
+300: RA <- W[J]
+303: JA <- DECODE(uA, TA)
+304: AA <- LOOKUP(RA(uA,TA))
+307: uA <- W[b]
+308: TA <- W[J]
+309: jA <- DECODE(PA, qA)
+310: JA <- LOOKUP(TA(PA,qA))
+317: JA <- W[b]
+318: uA <- W[J]
+321: TA <- DECODE(jA, PA)
+322: bA <- LOOKUP(uA(jA,PA))
+325: jA <- W[b]
+326: PA <- W[J]
+327: qA <- DECODE(zA, iA)
+329: TA <- LOOKUP(PA(zA,iA))
+337: IA <- W[b]
+339: aA <- W[J]
+342: KA <- DECODE(vA, SA)
+345: XA <- LOOKUP(aA(vA,SA))
+347: SA <- W[b]
+348: BA <- W[J]
+352: WA <- DECODE(AA, fA)
+353: vA <- LOOKUP(BA(AA,fA))
+356: vA <- W[b]
+358: SA <- W[J]
+359: BA <- DECODE(WA, AA)
+361: KA <- LOOKUP(SA(WA,AA))
+368: KA <- W[b]
+369: vA <- W[J]
+370: SA <- DECODE(BA, WA)
+372: aA <- LOOKUP(vA(BA,WA))
+374: WA <- W[b]
+375: AA <- W[J]
+376: fA <- DECODE(bA, RA)
+380: BA <- LOOKUP(AA(bA,RA))
+382: BA <- W[b]
+383: WA <- W[J]
+385: AA <- DECODE(fA, bA)
+386: SA <- LOOKUP(WA(fA,bA))
+389: SA <- W[b]
+391: BA <- W[J]
+393: WA <- DECODE(AA, fA)
+394: vA <- LOOKUP(BA(AA,fA))
+397: fA <- W[b]
+398: bA <- W[J]
+399: RA <- DECODE(JA, uA)
+400: AA <- LOOKUP(bA(JA,uA))
+403: AA <- W[b]
+405: fA <- W[J]
+406: bA <- DECODE(RA, JA)
+407: WA <- LOOKUP(fA(RA,JA))
+409: WA <- W[b]
+410: AA <- W[J]
+413: fA <- DECODE(bA, RA)
+415: BA <- LOOKUP(AA(bA,RA))
+417: RA <- W[b]
+418: JA <- W[J]
+419: uA <- DECODE(TA, jA)
+420: bA <- LOOKUP(JA(TA,jA))
+423: bA <- W[b]
+424: RA <- W[J]
+427: JA <- DECODE(uA, TA)
+428: fA <- LOOKUP(RA(uA,TA))
+431: fA <- W[b]
+432: bA <- W[J]
+435: RA <- DECODE(JA, uA)
+437: AA <- LOOKUP(bA(JA,uA))
+438: RA <- W[b]
+440: JA <- W[J]
+441: uA <- DECODE(TA, jA)
+442: bA <- LOOKUP(JA(TA,jA))
+444: uA <- W[b]
+445: TA <- W[J]
+446: jA <- DECODE(PA, qA)
+447: JA <- LOOKUP(TA(PA,qA))
+449: jA <- W[b]
+450: PA <- W[J]
+451: qA <- DECODE(zA, iA)
+452: TA <- LOOKUP(PA(zA,iA))
+453: qA <- W[b]
+454: zA <- W[J]
+455: iA <- DECODE(LA, UA)
+456: PA <- LOOKUP(zA(LA,UA))
+459: iA <- W[b]
+460: LA <- W[J]
+461: UA <- DECODE(YA, gA)
+462: zA <- LOOKUP(LA(YA,gA))
+463: UA <- W[b]
+465: YA <- W[J]
+466: gA <- DECODE(VA, ZA)
+467: LA <- LOOKUP(YA(VA,ZA))
+486: WA <- W[b]
+487: AA <- W[J]
+488: fA <- DECODE(bA, RA)
+489: M <- LOOKUP(AA(bA,RA))

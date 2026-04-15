@@ -1,0 +1,18 @@
+{
+  "swap_ranges": [
+    [
+      1,
+      7100
+    ],
+    [
+      1,
+      964
+    ],
+    [
+      965,
+      7100
+    ]
+  ],
+  "custom_b64_alphabet": "I/H1RtQ4mZAT78B3sdo0LbNV+MCKwhzvaS6qJyGPDeOuknWpglEjiFrXfc29x5UY",
+  "entry_count": 7100
+}

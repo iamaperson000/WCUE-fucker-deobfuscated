@@ -1,0 +1,16 @@
+{
+  "loader_small": {
+    "line": 4001,
+    "pretty_path": "/Users/kanishkv/Developer/wcue deobf/wcue-decompile/artifacts/branch_traces/loader_small_pretty.lua",
+    "trace_path": "/Users/kanishkv/Developer/wcue deobf/wcue-decompile/artifacts/branch_traces/loader_small_trace.txt",
+    "lookup_path": "/Users/kanishkv/Developer/wcue deobf/wcue-decompile/artifacts/branch_traces/loader_small_lookups.txt",
+    "assignment_count": 1366
+  },
+  "loader_bootstrap": {
+    "line": 5796,
+    "pretty_path": "/Users/kanishkv/Developer/wcue deobf/wcue-decompile/artifacts/branch_traces/loader_bootstrap_pretty.lua",
+    "trace_path": "/Users/kanishkv/Developer/wcue deobf/wcue-decompile/artifacts/branch_traces/loader_bootstrap_trace.txt",
+    "lookup_path": "/Users/kanishkv/Developer/wcue deobf/wcue-decompile/artifacts/branch_traces/loader_bootstrap_lookups.txt",
+    "assignment_count": 507
+  }
+}

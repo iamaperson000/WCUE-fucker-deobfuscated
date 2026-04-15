@@ -1,0 +1,170 @@
+[
+  {
+    "index": 1,
+    "lhs": "J",
+    "kind": "function",
+    "signature": "function(H)",
+    "length": 174,
+    "file": "helper_01_J.lua"
+  },
+  {
+    "index": 2,
+    "lhs": "Z",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 115,
+    "file": "helper_02_Z.lua"
+  },
+  {
+    "index": 3,
+    "lhs": "q",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 77,
+    "file": "helper_03_q.lua"
+  },
+  {
+    "index": 4,
+    "lhs": "U",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 87,
+    "file": "helper_04_U.lua"
+  },
+  {
+    "index": 5,
+    "lhs": "W",
+    "kind": "table",
+    "signature": "{}",
+    "length": 2,
+    "file": "helper_05_W.lua"
+  },
+  {
+    "index": 6,
+    "lhs": "L",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 99,
+    "file": "helper_06_L.lua"
+  },
+  {
+    "index": 7,
+    "lhs": "j",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 79,
+    "file": "helper_07_j.lua"
+  },
+  {
+    "index": 8,
+    "lhs": "b",
+    "kind": "number",
+    "signature": "-269154+269154",
+    "length": 14,
+    "file": "helper_08_b.lua"
+  },
+  {
+    "index": 9,
+    "lhs": "A",
+    "kind": "table",
+    "signature": "{}",
+    "length": 2,
+    "file": "helper_09_A.lua"
+  },
+  {
+    "index": 10,
+    "lhs": "Y",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 103,
+    "file": "helper_10_Y.lua"
+  },
+  {
+    "index": 11,
+    "lhs": "V",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 107,
+    "file": "helper_11_V.lua"
+  },
+  {
+    "index": 12,
+    "lhs": "T",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 83,
+    "file": "helper_12_T.lua"
+  },
+  {
+    "index": 13,
+    "lhs": "f",
+    "kind": "function",
+    "signature": "function()",
+    "length": 61,
+    "file": "helper_13_f.lua"
+  },
+  {
+    "index": 14,
+    "lhs": "R",
+    "kind": "function",
+    "signature": "function(H)",
+    "length": 479,
+    "file": "helper_14_R.lua"
+  },
+  {
+    "index": 15,
+    "lhs": "i",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 91,
+    "file": "helper_15_i.lua"
+  },
+  {
+    "index": 16,
+    "lhs": "P",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 95,
+    "file": "helper_16_P.lua"
+  },
+  {
+    "index": 17,
+    "lhs": "g",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 111,
+    "file": "helper_17_g.lua"
+  },
+  {
+    "index": 18,
+    "lhs": "u",
+    "kind": "function",
+    "signature": "function(H)",
+    "length": 90,
+    "file": "helper_18_u.lua"
+  },
+  {
+    "index": 19,
+    "lhs": "O",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 119,
+    "file": "helper_19_O.lua"
+  },
+  {
+    "index": 20,
+    "lhs": "z",
+    "kind": "function",
+    "signature": "function(H,I)",
+    "length": 83,
+    "file": "helper_20_z.lua"
+  },
+  {
+    "index": 21,
+    "lhs": "a",
+    "kind": "function",
+    "signature": "function(a,l,v,S)",
+    "length": 1404688,
+    "file": "helper_21_a.lua"
+  }
+]
