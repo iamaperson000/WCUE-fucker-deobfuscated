@@ -606,9 +606,9 @@
     "length": 6
   },
   "112": {
-    "seed": 4069099128678,
-    "decoded": "Zä).(¶8ô)Q5l2\"",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 4688606677127,
+    "decoded": "CursorPosition",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "113": {
@@ -960,9 +960,9 @@
     "length": 4
   },
   "176": {
-    "seed": 11995902498258,
-    "decoded": "Y7x#7GªKnr\rv]öA",
-    "printable_ratio": 0.8125,
+    "seed": 24089188789201,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "177": {
@@ -1146,9 +1146,9 @@
     "length": 4
   },
   "210": {
-    "seed": 26332982800358,
-    "decoded": "Ë<<Æ(K Ëg<4W%GzK=D\u0016Nd~",
-    "printable_ratio": 0.782608695652174,
+    "seed": 34652486975240,
+    "decoded": "rbxassetid://9109518215",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "211": {
@@ -2586,9 +2586,9 @@
     "length": 8
   },
   "477": {
-    "seed": 5679214774868,
-    "decoded": "\n@}ñ^H~@}9'+",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 13273385490468,
+    "decoded": "AutomaticSize",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "478": {
@@ -2694,9 +2694,9 @@
     "length": 4
   },
   "495": {
-    "seed": 8728254877664,
-    "decoded": "¸|C$(,k-<4 ",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 25718219222727,
+    "decoded": "WinterBreath",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "497": {
@@ -2730,9 +2730,9 @@
     "length": 14
   },
   "502": {
-    "seed": 28384202732449,
-    "decoded": "1Zbj8\u0003njC5/NlW;\fÛ",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 4737725958302,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "503": {
@@ -2844,9 +2844,9 @@
     "length": 12
   },
   "522": {
-    "seed": 2943040849242,
-    "decoded": "vdq«^d}2JO\u00157IDaHd",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 10163899011708,
+    "decoded": "Creating Character",
+    "printable_ratio": 1.0,
     "length": 18
   },
   "523": {
@@ -3000,9 +3000,9 @@
     "length": 10
   },
   "550": {
-    "seed": 21945497364459,
-    "decoded": "|ah`øSäWW#aeMhFc",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 33299633028242,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "551": {
@@ -3036,9 +3036,9 @@
     "length": 5
   },
   "556": {
-    "seed": 4201208465316,
-    "decoded": "-/1\t0Î-?|<\t¦L^vm VRì0",
-    "printable_ratio": 0.7727272727272727,
+    "seed": 15090773777267,
+    "decoded": "TextStrokeTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "557": {
@@ -3264,9 +3264,9 @@
     "length": 4
   },
   "599": {
-    "seed": 5416914684378,
-    "decoded": "CKnÆVEË/5>1vj*McÅp´o",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 17078608338077,
+    "decoded": ">1\u001dYbvtV\r4B2Ðe\tuBhU2b\u001b",
+    "printable_ratio": 0.8636363636363636,
     "length": 22
   },
   "601": {
@@ -3282,9 +3282,9 @@
     "length": 10
   },
   "603": {
-    "seed": 24190980697088,
-    "decoded": "b\u0002Z/d4&V^N#r)&PC",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 19342825087791,
+    "decoded": "ScrollBarThickness",
+    "printable_ratio": 1.0,
     "length": 18
   },
   "604": {
@@ -3390,9 +3390,9 @@
     "length": 10
   },
   "625": {
-    "seed": 31405532018976,
-    "decoded": "-\u0000iYA1H-~N6\n",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 28073606345488,
+    "decoded": "UserInputType",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "626": {
@@ -3468,9 +3468,9 @@
     "length": 5
   },
   "639": {
-    "seed": 14289388984830,
-    "decoded": "^Ix¨\u0005>~k{ywb\tB3",
-    "printable_ratio": 0.8125,
+    "seed": 10819955594158,
+    "decoded": "ClearTextOnFocus",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "640": {
@@ -3666,9 +3666,9 @@
     "length": 7
   },
   "675": {
-    "seed": 2806688679194,
-    "decoded": "D\u001c,\nªM'\t}?DKWf\"\u0018\r",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 21368435222238,
+    "decoded": "RaycastFilterType",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "676": {
@@ -4302,9 +4302,9 @@
     "length": 7
   },
   "802": {
-    "seed": 1574143296221,
-    "decoded": "/opx'gNï=¦#\u0000b+T",
-    "printable_ratio": 0.8,
+    "seed": 6987297459381,
+    "decoded": "G5S©?^`!Èx`!|.6",
+    "printable_ratio": 0.8666666666666667,
     "length": 15
   },
   "803": {
@@ -4584,9 +4584,9 @@
     "length": 15
   },
   "851": {
-    "seed": 28694695932978,
-    "decoded": "i|x-Xg(o\u000bI«poJlRpaZ¥^µ",
-    "printable_ratio": 0.782608695652174,
+    "seed": 5253855922574,
+    "decoded": "rbxassetid://6641203621",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "853": {
@@ -4800,9 +4800,9 @@
     "length": 3
   },
   "890": {
-    "seed": 15552674405450,
-    "decoded": "*´\u0015cVHo0pmÞ^#\"h?",
-    "printable_ratio": 0.8125,
+    "seed": 34969118769051,
+    "decoded": "application/json",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "891": {
@@ -5160,15 +5160,15 @@
     "length": 9
   },
   "958": {
-    "seed": 2152966964202,
-    "decoded": "IR4Cj!h\u001fdf®*7@",
-    "printable_ratio": 0.8,
+    "seed": 14638552504992,
+    "decoded": "BorderSizePixel",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "960": {
-    "seed": 3785343370978,
-    "decoded": "BRUfd\"Öý+?7`h\rQîf",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 16540765347350,
+    "decoded": "CharacterRemoving",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "961": {
@@ -5478,9 +5478,9 @@
     "length": 3
   },
   "1024": {
-    "seed": 20313936520435,
-    "decoded": "MK]ß3Ú`jFs]'h_o7(äX£K",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 26526697041984,
+    "decoded": "rbxassetid://6640771780",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "1025": {
@@ -5904,9 +5904,9 @@
     "length": 7
   },
   "1106": {
-    "seed": 1340581839472,
-    "decoded": ">kFoGjgM´FiË",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 24299333970995,
+    "decoded": "RailRightFix",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "1107": {
@@ -6252,9 +6252,9 @@
     "length": 20
   },
   "1172": {
-    "seed": 3247281915368,
-    "decoded": "ýZ'\u001cNñ)]*FcÛ#C\r4~",
-    "printable_ratio": 0.7647058823529411,
+    "seed": 34980439343009,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "1173": {
@@ -6582,9 +6582,9 @@
     "length": 13
   },
   "1233": {
-    "seed": 31541686204767,
-    "decoded": "OXG~#O\u000bar3i@n}ÝmK£##&ß",
-    "printable_ratio": 0.8181818181818182,
+    "seed": 8883940724776,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "1234": {
@@ -6684,15 +6684,15 @@
     "length": 15
   },
   "1252": {
-    "seed": 1817847399246,
-    "decoded": "aJòEf9BFwJK",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 10144105255539,
+    "decoded": "Key Redeemed",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "1254": {
-    "seed": 10922147075038,
-    "decoded": "jc+<Ft}wÌ·>æ6x#u!2\n{",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 27530217763347,
+    "decoded": "rbxassetid://9109525820",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "1255": {
@@ -7038,9 +7038,9 @@
     "length": 11
   },
   "1314": {
-    "seed": 968649867715,
-    "decoded": "\rÓ~xD\\þf\tV;sgÜ1",
-    "printable_ratio": 0.75,
+    "seed": 5460677052910,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "1316": {
@@ -7146,9 +7146,9 @@
     "length": 10
   },
   "1335": {
-    "seed": 4861867641047,
-    "decoded": "7l\u001fa\u0014Ow28{\u00121M&\tl)1H=j",
-    "printable_ratio": 0.75,
+    "seed": 30420614641493,
+    "decoded": "rbxassetid://11316387569",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "1337": {
@@ -7464,9 +7464,9 @@
     "length": 13
   },
   "1392": {
-    "seed": 13218161088523,
-    "decoded": "f&Ãá KO\u0012\\8ÎxÊ%b`6:MPo",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 31150331066537,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "1393": {
@@ -7686,9 +7686,9 @@
     "length": 10
   },
   "1432": {
-    "seed": 22621301958949,
-    "decoded": "N08OJv pUÚp\u001aõ\u00110B-l`1'",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 3206063146452,
+    "decoded": "rbxassetid://9109524644",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "1433": {
@@ -7836,9 +7836,9 @@
     "length": 3
   },
   "1459": {
-    "seed": 6180477389630,
-    "decoded": "gA\u001f>}ê.=,#£dZisQ",
-    "printable_ratio": 0.8125,
+    "seed": 4424998029324,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "1460": {
@@ -7872,9 +7872,9 @@
     "length": 4
   },
   "1467": {
-    "seed": 9920352309771,
-    "decoded": "\u0006àm´þø¥!r\u000b½i*B7P\rjh,Hss8YÜ+?õ*dTøcO£ò­\u0000tL<.\u0006V?[ÊèO#\tJ]",
-    "printable_ratio": 0.6101694915254238,
+    "seed": 24766587415820,
+    "decoded": "book now with jet2holidays. package holidays you can trust!",
+    "printable_ratio": 1.0,
     "length": 59
   },
   "1468": {
@@ -8394,9 +8394,9 @@
     "length": 10
   },
   "1571": {
-    "seed": 17881439297670,
-    "decoded": "pàoSol/vLYWbCÿO*T\u00053_LÌ",
-    "printable_ratio": 0.75,
+    "seed": 18795493876272,
+    "decoded": "rbxassetid://11316386523",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "1572": {
@@ -9018,9 +9018,9 @@
     "length": 7
   },
   "1687": {
-    "seed": 1574576227037,
-    "decoded": "z.\t#®5VDVnAXäGP",
-    "printable_ratio": 0.8125,
+    "seed": 26198572036007,
+    "decoded": "TextTransparency",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "1688": {
@@ -9444,9 +9444,9 @@
     "length": 7
   },
   "1765": {
-    "seed": 3388127512105,
-    "decoded": "$ó{-if^-B]/m¥Êx",
-    "printable_ratio": 0.8,
+    "seed": 9681293562268,
+    "decoded": "BorderSizePixel",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "1766": {
@@ -10122,9 +10122,9 @@
     "length": 10
   },
   "1900": {
-    "seed": 1002259497426,
-    "decoded": "BoDlV,ÞaU0\u0001X",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 12806461462347,
+    "decoded": "link copied!",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "1901": {
@@ -10230,9 +10230,9 @@
     "length": 22
   },
   "1920": {
-    "seed": 361095168168,
-    "decoded": "$H|ÁB,BRdvß ",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 8358179999540,
+    "decoded": "ResetOnSpawn",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "1921": {
@@ -10356,15 +10356,15 @@
     "length": 8
   },
   "1944": {
-    "seed": 1963642504082,
-    "decoded": "^Øu )%vmG*Ó",
-    "printable_ratio": 0.8181818181818182,
+    "seed": 17695413051440,
+    "decoded": "headsitConn",
+    "printable_ratio": 1.0,
     "length": 11
   },
   "1945": {
-    "seed": 3652369319588,
-    "decoded": "j3\\\u0013U37iD!÷!u",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 23761797524280,
+    "decoded": "FillDirection",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "1946": {
@@ -10518,9 +10518,9 @@
     "length": 9
   },
   "1973": {
-    "seed": 3604623017614,
-    "decoded": "~m%í\u0012}0::\r¬GP?pGã",
-    "printable_ratio": 0.7647058823529411,
+    "seed": 15654220536953,
+    "decoded": "MouseButton2Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "1974": {
@@ -10632,9 +10632,9 @@
     "length": 9
   },
   "1992": {
-    "seed": 1755934851889,
-    "decoded": "&\t MKE\rz,&beËkO",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 28980709700791,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "1993": {
@@ -11052,9 +11052,9 @@
     "length": 4
   },
   "2068": {
-    "seed": 13289169311788,
-    "decoded": "FCfW±!ÔV_Z\u001cKl*\u0004n`f¸r$-.",
-    "printable_ratio": 0.75,
+    "seed": 25422754836030,
+    "decoded": "rbxassetid://15603385242",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "2069": {
@@ -11130,9 +11130,9 @@
     "length": 6
   },
   "2083": {
-    "seed": 31010833496168,
-    "decoded": "\u0018!\u0003£õ¦Í;à^\\tXc\\l0f|~Ä@©[Zó`©é!^üO Ó^ìq\u000bÄURµüçEeV`\u0014Xöor/rëÁkÞ!!Öz«0ÔË@©\u0004sL8\u001cW~$©LO°z;n\t®ÎÆæ¯Rõ\n'IøÆ{\nÜä@XüQ;&Ü(?ëDj8",
-    "printable_ratio": 0.5528455284552846,
+    "seed": 23959081675668,
+    "decoded": "Grammarly's cutting-edge technology helps you craft compelling, understandable writing that makes an impact on your reader.",
+    "printable_ratio": 1.0,
     "length": 123
   },
   "2084": {
@@ -11436,9 +11436,9 @@
     "length": 7
   },
   "2139": {
-    "seed": 2070366913476,
-    "decoded": "?AJc4z(cg«\u0000\u0016DP}5",
-    "printable_ratio": 0.8125,
+    "seed": 4530598627389,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "2140": {
@@ -11742,9 +11742,9 @@
     "length": 3
   },
   "2198": {
-    "seed": 1585364042466,
-    "decoded": "We\u0016,j0GY\u001e5] ",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 31183339141304,
+    "decoded": "ResetOnSpawn",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "2199": {
@@ -11784,9 +11784,9 @@
     "length": 8
   },
   "2206": {
-    "seed": 571062157577,
-    "decoded": "Fm9TUn^'rý,BRX,",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 13610500053185,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "2208": {
@@ -12324,9 +12324,9 @@
     "length": 4
   },
   "2308": {
-    "seed": 33702591380813,
-    "decoded": "NN8¬RxÚb\u001aÁQX]6ND2F#c\t",
-    "printable_ratio": 0.7727272727272727,
+    "seed": 22949343046078,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "2309": {
@@ -12660,9 +12660,9 @@
     "length": 19
   },
   "2372": {
-    "seed": 9841636823526,
-    "decoded": "<­\rT8Yr.F\\{4",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 2971630634343,
+    "decoded": "AutomaticSize",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "2373": {
@@ -13080,9 +13080,9 @@
     "length": 15
   },
   "2451": {
-    "seed": 3036531393925,
-    "decoded": "c7Gjq°B<Ehó]f|ü50",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 10465901712137,
+    "decoded": "watchedCharacters",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "2452": {
@@ -13608,9 +13608,9 @@
     "length": 6
   },
   "2558": {
-    "seed": 146469191748,
-    "decoded": "q3;YB5\u00179DA\u001bG+QF,b",
-    "printable_ratio": 0.7894736842105263,
+    "seed": 3597750044299,
+    "decoded": "!%Y-%m-%dT%H:%M:%SZ",
+    "printable_ratio": 1.0,
     "length": 19
   },
   "2559": {
@@ -13740,9 +13740,9 @@
     "length": 9
   },
   "2584": {
-    "seed": 15804662226111,
-    "decoded": "o;$\tÌÉv@a!¹&E\nS>",
-    "printable_ratio": 0.8125,
+    "seed": 33033229630486,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "2585": {
@@ -13818,9 +13818,9 @@
     "length": 7
   },
   "2598": {
-    "seed": 4073553921,
-    "decoded": "uL/y¯6^>ú#vWJ\u001ea@D",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 23226828745279,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "2599": {
@@ -13878,9 +13878,9 @@
     "length": 3
   },
   "2609": {
-    "seed": 1310919262818,
-    "decoded": "æ)lQc8E\\\\Wzö4",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 34901445607292,
+    "decoded": "Color Presets",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "2610": {
@@ -13950,9 +13950,9 @@
     "length": 6
   },
   "2624": {
-    "seed": 3796571883239,
-    "decoded": ",SlyaBgi© TVR\nð",
-    "printable_ratio": 0.8125,
+    "seed": 1857271726944,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "2625": {
@@ -14088,9 +14088,9 @@
     "length": 17
   },
   "2648": {
-    "seed": 4950976940289,
-    "decoded": "ß9LkY+\u001c-^U|Ç\u00070PL",
-    "printable_ratio": 0.75,
+    "seed": 33169042963541,
+    "decoded": "application/json",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "2649": {
@@ -14400,9 +14400,9 @@
     "length": 6
   },
   "2711": {
-    "seed": 9843408835047,
-    "decoded": "/WAwHxAdZÈ)GÛ9\u000e>G(",
-    "printable_ratio": 0.7894736842105263,
+    "seed": 25873959415568,
+    "decoded": "MicrowaveSpinActive",
+    "printable_ratio": 1.0,
     "length": 19
   },
   "2712": {
@@ -14604,9 +14604,9 @@
     "length": 4
   },
   "2749": {
-    "seed": 20360105633032,
-    "decoded": ")r$t¹~\u00053QÙGmêoH8PiÅ§k2Ii\"\f?£R³)Ð.°(\fÔ¨¢leRt1&\u0003ÜwGuï",
-    "printable_ratio": 0.6111111111111112,
+    "seed": 31360687274251,
+    "decoded": "They know me where it snows, I skied in and they froze",
+    "printable_ratio": 1.0,
     "length": 54
   },
   "2750": {
@@ -15042,9 +15042,9 @@
     "length": 3
   },
   "2827": {
-    "seed": 3665636198721,
-    "decoded": "+Ýz\u0019æ\u0005ðh¾U\rq&Qo)N[?è[[¼`ÑEyèAfîh?g!^\"",
-    "printable_ratio": 0.6666666666666666,
+    "seed": 27618811212349,
+    "decoded": "I'm in the thick of it, everybody knows",
+    "printable_ratio": 1.0,
     "length": 39
   },
   "2828": {
@@ -15468,9 +15468,9 @@
     "length": 8
   },
   "2906": {
-    "seed": 31329220819196,
-    "decoded": "PõxÞ\r1¿GUchkO¶k-k\u0004=Ð 5(_Iv",
-    "printable_ratio": 0.7307692307692307,
+    "seed": 12614875584242,
+    "decoded": "ScrollBarImageTransparency",
+    "printable_ratio": 1.0,
     "length": 26
   },
   "2907": {
@@ -15540,9 +15540,9 @@
     "length": 14
   },
   "2919": {
-    "seed": 2529700955289,
-    "decoded": "E%TH!,O\fº¼|xØ(,h&£g#E",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 28181075161922,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "2920": {
@@ -15744,9 +15744,9 @@
     "length": 6
   },
   "2960": {
-    "seed": 5265401514387,
-    "decoded": "9\u0019õ\"g=P~_6\u000bYLjÿ\u001e\u001fJ<ei_F",
-    "printable_ratio": 0.7083333333333334,
+    "seed": 14694215768762,
+    "decoded": "works in rp servers only",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "2961": {
@@ -15828,9 +15828,9 @@
     "length": 15
   },
   "2976": {
-    "seed": 14216710576604,
-    "decoded": "¥~`{}:k\\ÛbLä\ry°00.3{Yð",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 22068726802468,
+    "decoded": "rbxassetid://9111003918",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "2977": {
@@ -16542,9 +16542,9 @@
     "length": 3
   },
   "3111": {
-    "seed": 10283248063156,
-    "decoded": "]|z[/=ìiu \u0013erV,à",
-    "printable_ratio": 0.8125,
+    "seed": 12005455631830,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "3112": {
@@ -16836,9 +16836,9 @@
     "length": 10
   },
   "3170": {
-    "seed": 605289890073,
-    "decoded": "zE~T|kVCnÃ\r:÷¢TI",
-    "printable_ratio": 0.7647058823529411,
+    "seed": 18905738912355,
+    "decoded": "Apply Color (OFF)",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "3173": {
@@ -16878,9 +16878,9 @@
     "length": 22
   },
   "3181": {
-    "seed": 12687837058836,
-    "decoded": "\u0001oi9!\nN\\/L*qL",
-    "printable_ratio": 0.8,
+    "seed": 5285617813917,
+    "decoded": "BorderSizePixel",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "3182": {
@@ -16956,9 +16956,9 @@
     "length": 14
   },
   "3196": {
-    "seed": 4312374446040,
-    "decoded": "íqvh(@l&?]*ûkÚeq",
-    "printable_ratio": 0.8125,
+    "seed": 18794720354863,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "3197": {
@@ -17436,9 +17436,9 @@
     "length": 3
   },
   "3285": {
-    "seed": 3856705799939,
-    "decoded": "\\[\u000fC.n %Â`IV39ùÇ>SXc\u0013",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 24962901306728,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "3287": {
@@ -17766,9 +17766,9 @@
     "length": 6
   },
   "3347": {
-    "seed": 28996712608958,
-    "decoded": "0'*$`{\u0014ÓMR^XHP.",
-    "printable_ratio": 0.8125,
+    "seed": 24352107637835,
+    "decoded": "HumanoidRootPart",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "3348": {
@@ -17952,9 +17952,9 @@
     "length": 4
   },
   "3387": {
-    "seed": 2442166633585,
-    "decoded": "=w7&]·>³|®zR:Wâ\"?+UV1",
-    "printable_ratio": 0.7727272727272727,
+    "seed": 4215683893163,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "3388": {
@@ -18012,9 +18012,9 @@
     "length": 6
   },
   "3398": {
-    "seed": 8032015552156,
-    "decoded": "abcâ¿-Otoq!^i]yªbI?qÑÎ\t\t",
-    "printable_ratio": 0.7916666666666666,
+    "seed": 17903485739152,
+    "decoded": "rbxassetid://11316388475",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "3399": {
@@ -18132,9 +18132,9 @@
     "length": 6
   },
   "3422": {
-    "seed": 683372937534,
-    "decoded": "m%L\u001a\u0019k#Bfg(k",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 26722418143387,
+    "decoded": "AbsoluteSize",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "3423": {
@@ -18228,9 +18228,9 @@
     "length": 4
   },
   "3440": {
-    "seed": 707114910025,
-    "decoded": "\"\"12iªy*-ãY%",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 30138698102482,
+    "decoded": "rgbFinderGui",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "3441": {
@@ -18690,9 +18690,9 @@
     "length": 19
   },
   "3528": {
-    "seed": 13090486015951,
-    "decoded": "YûkHfd(&Ð!¼0I+Z0",
-    "printable_ratio": 0.8125,
+    "seed": 4236772853684,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "3529": {
@@ -19524,9 +19524,9 @@
     "length": 5
   },
   "3684": {
-    "seed": 8726521647071,
-    "decoded": "3^$~-$N\\fR\u0015w\t9",
-    "printable_ratio": 0.8125,
+    "seed": 5482652142073,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "3685": {
@@ -20616,9 +20616,9 @@
     "length": 7
   },
   "3886": {
-    "seed": 823825416575,
-    "decoded": "d!I\"\tH#io,<¬«!P",
-    "printable_ratio": 0.8125,
+    "seed": 28265260544874,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "3887": {
@@ -20754,9 +20754,9 @@
     "length": 4
   },
   "3912": {
-    "seed": 4094651090802,
-    "decoded": "|Py\u0016;]W}Ap\u001b'4",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 27185969951091,
+    "decoded": "ZIndexBehavior",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "3913": {
@@ -20994,9 +20994,9 @@
     "length": 3
   },
   "3954": {
-    "seed": 16288232414624,
-    "decoded": "K4&ëc$8,å!2[u``FË1\u0017\t\"O",
-    "printable_ratio": 0.8181818181818182,
+    "seed": 6082703051536,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "3955": {
@@ -21252,9 +21252,9 @@
     "length": 8
   },
   "4006": {
-    "seed": 2488692573318,
-    "decoded": "é+\u0006Y.(Ã,bB)#\u001bV81",
-    "printable_ratio": 0.75,
+    "seed": 27144976691552,
+    "decoded": "MouseButton1Down",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "4007": {
@@ -21306,9 +21306,9 @@
     "length": 4
   },
   "4015": {
-    "seed": 3142390220215,
-    "decoded": "KÄ\r7uUxwênW¦71MÆæn46c4",
-    "printable_ratio": 0.7727272727272727,
+    "seed": 29752013944350,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "4016": {
@@ -21348,9 +21348,9 @@
     "length": 5
   },
   "4023": {
-    "seed": 14945551637295,
-    "decoded": "\n1µ/sR.ÃqTzbéMÉúí\u00197P\u00065\u000344vx 7\u0012\\-j\u0011>Nb áÇpª5\tD\u0018PlèÆ",
-    "printable_ratio": 0.6346153846153846,
+    "seed": 34526892031693,
+    "decoded": "From the screen to the ring, to the pen, to the king",
+    "printable_ratio": 1.0,
     "length": 52
   },
   "4024": {
@@ -21444,9 +21444,9 @@
     "length": 8
   },
   "4041": {
-    "seed": 8756515868653,
-    "decoded": "+`=\u001ezs\u0018GY;sksöñ[\nZ]v[",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 18544248512955,
+    "decoded": "rbxassetid://6808486864",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "4042": {
@@ -21720,9 +21720,9 @@
     "length": 8
   },
   "4092": {
-    "seed": 1803568644935,
-    "decoded": "\b>²{Fz)f}(\u0006A\u0004By[k)u`:",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 35133720428520,
+    "decoded": "rbxassetid://6820477769",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "4093": {
@@ -21750,9 +21750,9 @@
     "length": 14
   },
   "4097": {
-    "seed": 13729068734713,
-    "decoded": "urt\u001eÆNL,-j\u0012+oJ\u001céK#eSn4",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 4008816412490,
+    "decoded": "rbxassetid://9112905466",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "4098": {
@@ -22104,9 +22104,9 @@
     "length": 7
   },
   "4161": {
-    "seed": 10523364184868,
-    "decoded": "è[6$v=CW&\n\u0007]p",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 10672157938537,
+    "decoded": "FillDirection",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "4162": {
@@ -23058,9 +23058,9 @@
     "length": 6
   },
   "4345": {
-    "seed": 4312374446040,
-    "decoded": "N^<ß5[#72'\"\u0010 ",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 16983276986084,
+    "decoded": "TextXAlignment",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "4347": {
@@ -23082,9 +23082,9 @@
     "length": 10
   },
   "4351": {
-    "seed": 2529700955289,
-    "decoded": "]â¢=fN«ßf'#4_/z{HNûM²F.",
-    "printable_ratio": 0.7083333333333334,
+    "seed": 27996649779948,
+    "decoded": "rbxassetid://14954698607",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "4352": {
@@ -23226,9 +23226,9 @@
     "length": 4
   },
   "4375": {
-    "seed": 23853787081571,
-    "decoded": "%>¾_²_>8H\n¤a6'$4`zú$$",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 31925713861138,
+    "decoded": "rbxassetid://6640790963",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "4376": {
@@ -23400,9 +23400,9 @@
     "length": 11
   },
   "4407": {
-    "seed": 455001161939,
-    "decoded": "^7$o:Q$,P-q\"ÜXî?\n&`ÑR?\tôòÏWzcÈß!@¿\u0004¯5>m\u0005i\u001f8,ì4$\u0016sZ",
-    "printable_ratio": 0.6481481481481481,
+    "seed": 5090553661762,
+    "decoded": "They know me where it snows, I skied in and they froze",
+    "printable_ratio": 1.0,
     "length": 54
   },
   "4408": {
@@ -23418,9 +23418,9 @@
     "length": 8
   },
   "4410": {
-    "seed": 2599747912890,
-    "decoded": "0IÞY.\u0018uAsR.A(",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 10095659831901,
+    "decoded": "AutomaticSize",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "4411": {
@@ -24072,9 +24072,9 @@
     "length": 6
   },
   "4527": {
-    "seed": 1234681676350,
-    "decoded": "\u000eA¬5'z8xx:O{.U\u000b",
-    "printable_ratio": 0.8,
+    "seed": 19438014948187,
+    "decoded": "BorderSizePixel",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "4529": {
@@ -24168,15 +24168,15 @@
     "length": 10
   },
   "4546": {
-    "seed": 28985654555833,
-    "decoded": "F¸µWc#\r4(}s`T(`t[z°\\\u0001(",
-    "printable_ratio": 0.75,
+    "seed": 17112757051168,
+    "decoded": "rbxassetid://15603383812",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "4548": {
-    "seed": 3114888971690,
-    "decoded": "Ui?\nt()`a\nX",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 23122395425295,
+    "decoded": "PaddingBottom",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "4549": {
@@ -24216,9 +24216,9 @@
     "length": 8
   },
   "4557": {
-    "seed": 3991829120834,
-    "decoded": "¤q.W+02VC^qS>?",
-    "printable_ratio": 0.8125,
+    "seed": 20054561474199,
+    "decoded": "*\u0017=\t\\#Lí+l|u)wV6",
+    "printable_ratio": 0.875,
     "length": 16
   },
   "4558": {
@@ -24318,9 +24318,9 @@
     "length": 4
   },
   "4575": {
-    "seed": 1298601198172,
-    "decoded": "Q{´*í.qx#puz:",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 8075250552496,
+    "decoded": "MouseMovement",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "4576": {
@@ -24522,9 +24522,9 @@
     "length": 9
   },
   "4612": {
-    "seed": 17909361909907,
-    "decoded": "Í@?b9<Vl1|­`A5É)~|[7iÂ",
-    "printable_ratio": 0.782608695652174,
+    "seed": 24983773736305,
+    "decoded": "rbxassetid://6641201558",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "4613": {
@@ -25812,9 +25812,9 @@
     "length": 4
   },
   "4846": {
-    "seed": 3001336251765,
-    "decoded": " a(Ài 89EäJ\u000bH¥´W4Ð34Z`gQ$Y",
-    "printable_ratio": 0.7142857142857143,
+    "seed": 32515722394405,
+    "decoded": "Want a break from the ads...",
+    "printable_ratio": 1.0,
     "length": 28
   },
   "4847": {
@@ -25926,9 +25926,9 @@
     "length": 3
   },
   "4865": {
-    "seed": 31406841395488,
-    "decoded": "\u00134æuW;%R[SFj ÀË'â/:;-PG4qpú\u0004+w>P½\b»rý0\u0015@yùS\\#W³",
-    "printable_ratio": 0.6530612244897959,
+    "seed": 22119773546556,
+    "decoded": "Beep Cut Beep Liberty mu Beep Liberty Biberty cut",
+    "printable_ratio": 1.0,
     "length": 49
   },
   "4866": {
@@ -26082,9 +26082,9 @@
     "length": 4
   },
   "4896": {
-    "seed": 2152966964202,
-    "decoded": "Uý-w°ºL7:4&Y.\\s\u0007zikk\"Éc8",
-    "printable_ratio": 0.7307692307692307,
+    "seed": 8688709586893,
+    "decoded": "This is how the story goes",
+    "printable_ratio": 1.0,
     "length": 26
   },
   "4897": {
@@ -26250,9 +26250,9 @@
     "length": 6
   },
   "4926": {
-    "seed": 17720309932091,
-    "decoded": " ~¯KYmÞï¦[kÕvqRxq*g%BN",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 11146602288198,
+    "decoded": "rbxassetid://6808487773",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "4927": {
@@ -26388,9 +26388,9 @@
     "length": 4
   },
   "4954": {
-    "seed": 16516232945162,
-    "decoded": "¨JD.R|JDjÌ:4lG\t/{{l*",
-    "printable_ratio": 0.8181818181818182,
+    "seed": 32157641652862,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "4955": {
@@ -26574,9 +26574,9 @@
     "length": 17
   },
   "4990": {
-    "seed": 25238290001384,
-    "decoded": "YPG4é:`v;\u001då/3m­9«b@qeéþ;Ã0;Þ0mE+0 Æ>~GÒ\"37Åaëi¨",
-    "printable_ratio": 0.6875,
+    "seed": 16787563339401,
+    "decoded": "Writing's not that easy, but Grammarly can help.",
+    "printable_ratio": 1.0,
     "length": 48
   },
   "4991": {
@@ -27000,9 +27000,9 @@
     "length": 8
   },
   "5066": {
-    "seed": 1159569932827,
-    "decoded": "à\u0018S]>ëY-Su$ofnô®>hl\tX\r",
-    "printable_ratio": 0.7727272727272727,
+    "seed": 2607115142334,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "5067": {
@@ -27240,9 +27240,9 @@
     "length": 4
   },
   "5112": {
-    "seed": 6078444964622,
-    "decoded": "ÈsÖxO.T!Rn>h]#ð",
-    "printable_ratio": 0.8,
+    "seed": 19274078528271,
+    "decoded": "morphStealerGui",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "5113": {
@@ -27606,9 +27606,9 @@
     "length": 6
   },
   "5183": {
-    "seed": 15735183383711,
-    "decoded": "-Ì©m!\u0016Pxu\t7?^jGA",
-    "printable_ratio": 0.8125,
+    "seed": 31005179148389,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "5184": {
@@ -27738,9 +27738,9 @@
     "length": 8
   },
   "5206": {
-    "seed": 2726773114101,
-    "decoded": "4\nH 1=(~ú4J°<",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 22894156671396,
+    "decoded": "animBuilderGui",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "5207": {
@@ -27906,9 +27906,9 @@
     "length": 43
   },
   "5236": {
-    "seed": 9501509210440,
-    "decoded": "guôUû4KÛb£Q!±ûs*CXÿ25 c±lg_#C§øfÑ]Dgï2UUsØMéQ8Æ\u0014é.u",
-    "printable_ratio": 0.6296296296296297,
+    "seed": 23578805414627,
+    "decoded": "They know me where it snows, I skied in and they froze",
+    "printable_ratio": 1.0,
     "length": 54
   },
   "5237": {
@@ -27924,9 +27924,9 @@
     "length": 4
   },
   "5239": {
-    "seed": 858363117967,
-    "decoded": "\u001evUP/jCX \u0015H`+}",
-    "printable_ratio": 0.75,
+    "seed": 25981828907859,
+    "decoded": "cl\tejDa~Fh\u000ewS5F",
+    "printable_ratio": 0.875,
     "length": 16
   },
   "5240": {
@@ -28380,9 +28380,9 @@
     "length": 3
   },
   "5326": {
-    "seed": 2107457930197,
-    "decoded": "­q%<b.%p#V\u0010ðÄtC-}mcÐ:y",
-    "printable_ratio": 0.7083333333333334,
+    "seed": 11282268427397,
+    "decoded": "rbxassetid://15603066145",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "5327": {
@@ -28398,9 +28398,9 @@
     "length": 9
   },
   "5330": {
-    "seed": 8714354167769,
-    "decoded": "ZBw;ÐPào±+¬ìò#p\u0016;3&6s·m?V\rL^Ud",
-    "printable_ratio": 0.6666666666666666,
+    "seed": 29963070158464,
+    "decoded": "Where's my crown? That's my bling",
+    "printable_ratio": 1.0,
     "length": 33
   },
   "5331": {
@@ -28962,9 +28962,9 @@
     "length": 10
   },
   "5438": {
-    "seed": 14421159828027,
-    "decoded": "=-¤OwV<Ip}.¤\nI]",
-    "printable_ratio": 0.8125,
+    "seed": 806774440311,
+    "decoded": "gamepass applier",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "5439": {
@@ -29310,9 +29310,9 @@
     "length": 7
   },
   "5504": {
-    "seed": 14657483463337,
-    "decoded": "@Msu\n?²z>3ñ%\u0000`/(",
-    "printable_ratio": 0.8125,
+    "seed": 27350521213376,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "5505": {
@@ -29688,9 +29688,9 @@
     "length": 6
   },
   "5578": {
-    "seed": 1159399359003,
-    "decoded": ".E`5\u0004lä.WSCeQw{",
-    "printable_ratio": 0.7647058823529411,
+    "seed": 31868208282103,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "5580": {
@@ -30126,9 +30126,9 @@
     "length": 6
   },
   "5661": {
-    "seed": 7472565587351,
-    "decoded": "J8XV;Q¸¸_6#\\e[",
-    "printable_ratio": 0.8,
+    "seed": 23197458524722,
+    "decoded": "BorderSizePixel",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "5662": {
@@ -30186,9 +30186,9 @@
     "length": 17
   },
   "5672": {
-    "seed": 13494392805515,
-    "decoded": "«$?(ûqH\u0000F\u0018\\NY{ñ¡rÂ\u0013ck\u0010»NÊ\u0014 û6j\u0014\u001dE@÷?/xãI*'È\u001ajÁ6Úåv\\mÿK×|²%6íò\u000bQK3\u0012^3eÂ64>@ûRiro®-P;ÃËZ/9ÿ)0\nP\rÇû²¸Êj#\u0017ÐóÃ¿#~«8\r/Âß;\u001e\\jé{pÛ\tV",
-    "printable_ratio": 0.5255474452554745,
+    "seed": 9874840310262,
+    "decoded": "Liberty mutual customizes your car insurance so you only pay for what you need Only pay for what you need Liberty Liberty Liberty Liberty",
+    "printable_ratio": 1.0,
     "length": 137
   },
   "5673": {
@@ -30234,9 +30234,9 @@
     "length": 10
   },
   "5680": {
-    "seed": 11115497821240,
-    "decoded": "@;Zdz\bx÷9\u0015Ø\"[8zÜ07É$wMc\nVª,Ç_,ÿï¾,u|Nxyv¢[O´Ü\u0010×yé\u001b",
-    "printable_ratio": 0.6274509803921569,
+    "seed": 28232888972122,
+    "decoded": "I don't know no nothin' 'bout no ice, I'm just cold",
+    "printable_ratio": 1.0,
     "length": 51
   },
   "5681": {
@@ -30486,9 +30486,9 @@
     "length": 3
   },
   "5726": {
-    "seed": 28942625485989,
-    "decoded": "Cdy!}OÃWs#Ø(\t4x`oDAúLIª",
-    "printable_ratio": 0.8260869565217391,
+    "seed": 9090760953993,
+    "decoded": "rbxassetid://9112909114",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "5727": {
@@ -30618,9 +30618,9 @@
     "length": 14
   },
   "5749": {
-    "seed": 7198957669656,
-    "decoded": "MP4Î7^=(nòn_Z[¬\u0001,:'?>Ã1ï",
-    "printable_ratio": 0.75,
+    "seed": 33568906476815,
+    "decoded": "rbxassetid://15603386735",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "5750": {
@@ -30636,9 +30636,9 @@
     "length": 9
   },
   "5752": {
-    "seed": 14042947901835,
-    "decoded": "bf+>\u0014wHstw î\r2L#Pü~",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 26811979067589,
+    "decoded": "TextStrokeTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "5753": {
@@ -30792,9 +30792,9 @@
     "length": 3
   },
   "5782": {
-    "seed": 8714354167769,
-    "decoded": "Ò>=xK.i N/XJ",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 31950097152541,
+    "decoded": "CornerRadius",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "5783": {
@@ -30996,9 +30996,9 @@
     "length": 8
   },
   "5817": {
-    "seed": 1829034394451,
-    "decoded": "ÑA:aeCMB{\u0017`O",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 9146294259875,
+    "decoded": "CornerRadius",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "5820": {
@@ -31338,9 +31338,9 @@
     "length": 8
   },
   "5880": {
-    "seed": 25143313984956,
-    "decoded": "\u0001Z-=M¶<7K8åt][~Ø»[}7G#",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 4535312189503,
+    "decoded": "rbxassetid://6808487174",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "5881": {
@@ -31776,9 +31776,9 @@
     "length": 15
   },
   "5957": {
-    "seed": 33928682814903,
-    "decoded": "Bòeô3mÈ<E ÐyD^ÊGX\u001e>K7Ø-9÷>éÖSDq!<K[9ºFTºB_u(",
-    "printable_ratio": 0.6666666666666666,
+    "seed": 21170251196034,
+    "decoded": "Life's a fight, but trust, I'm ready for the war",
+    "printable_ratio": 1.0,
     "length": 48
   },
   "5958": {
@@ -31812,9 +31812,9 @@
     "length": 10
   },
   "5964": {
-    "seed": 623129936162,
-    "decoded": "J!gi:%íqmyg",
-    "printable_ratio": 0.8333333333333334,
+    "seed": 11761898411365,
+    "decoded": "DisplayOrder",
+    "printable_ratio": 1.0,
     "length": 12
   },
   "5965": {
@@ -32100,9 +32100,9 @@
     "length": 10
   },
   "6018": {
-    "seed": 4915493161200,
-    "decoded": "2.}clE;i#Qõ\u000f\u001090",
-    "printable_ratio": 0.8,
+    "seed": 22228747888751,
+    "decoded": "colorPresetsGui",
+    "printable_ratio": 1.0,
     "length": 15
   },
   "6019": {
@@ -32148,9 +32148,9 @@
     "length": 3
   },
   "6026": {
-    "seed": 24214401821707,
-    "decoded": "(b1K4!â¦+Ivl|#ºE\u0016k1Ãì6{¦\u001e?Hp{)T,H[Zä³·Pt~¡?o\u0012ØQ~{¦",
-    "printable_ratio": 0.6481481481481481,
+    "seed": 8876175003685,
+    "decoded": "I went from living rooms straight up to sold-out touxP",
+    "printable_ratio": 1.0,
     "length": 54
   },
   "6027": {
@@ -32562,9 +32562,9 @@
     "length": 7
   },
   "6101": {
-    "seed": 13161983612913,
-    "decoded": "okrg\u0004w/a&\t$$dõL",
-    "printable_ratio": 0.8125,
+    "seed": 8508022787961,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "6102": {
@@ -33072,9 +33072,9 @@
     "length": 17
   },
   "6198": {
-    "seed": 12655145539333,
-    "decoded": "jÕz¶T(},%£ïiP\r+zDm\u0014`-~",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 32952720129008,
+    "decoded": "rbxassetid://9110997501",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "6199": {
@@ -33174,9 +33174,9 @@
     "length": 3
   },
   "6220": {
-    "seed": 14475998321236,
-    "decoded": "«luLQ!É9).O?L+!",
-    "printable_ratio": 0.8125,
+    "seed": 18018740023375,
+    "decoded": "Eh7èxMR&5OvIeôC%",
+    "printable_ratio": 0.875,
     "length": 16
   },
   "6221": {
@@ -33396,15 +33396,15 @@
     "length": 3
   },
   "6262": {
-    "seed": 13933952309592,
-    "decoded": "{SMtV(Fz--<M~![ú½B7`\u0013",
-    "printable_ratio": 0.782608695652174,
+    "seed": 27529628152339,
+    "decoded": "rbxassetid://6641191582",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "6264": {
-    "seed": 3379801679427,
-    "decoded": "k²yxKqZ²RQ1t9@'7w~\u0003",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 24631685459150,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "6265": {
@@ -33822,9 +33822,9 @@
     "length": 14
   },
   "6345": {
-    "seed": 11578871600399,
-    "decoded": "~D`t¥\r3cÕû\t97M<Pÿ¸¸xJ: ,.{d/1ÑF{&ämmÔXö&§j\u001aÈ'",
-    "printable_ratio": 0.6530612244897959,
+    "seed": 9768495731140,
+    "decoded": "Forty somethin' milli' subs or so, I've been told",
+    "printable_ratio": 1.0,
     "length": 49
   },
   "6346": {
@@ -33888,9 +33888,9 @@
     "length": 6
   },
   "6357": {
-    "seed": 257659895927,
-    "decoded": "Si7k-V?miÇúEL",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 12320641029737,
+    "decoded": "ScrollBarInset",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "6358": {
@@ -33996,15 +33996,15 @@
     "length": 8
   },
   "6376": {
-    "seed": 7891661753946,
-    "decoded": "vK\u000e<3ýHUZE~ï\r]8¢Z%p\u0014£÷f¸ê\u0002=KÒ, B6ó$I]±&\u0011ó1cS¢.",
-    "printable_ratio": 0.6122448979591837,
+    "seed": 25652225339049,
+    "decoded": "Forty somethin' milli' subs or so, I've been told",
+    "printable_ratio": 1.0,
     "length": 49
   },
   "6377": {
-    "seed": 30579987232671,
-    "decoded": "qxbyZ&t*¶<ý¥:\b2S\u001b(ch~¢ül5H",
-    "printable_ratio": 0.7307692307692307,
+    "seed": 30375608350528,
+    "decoded": "ScrollBarImageTransparency",
+    "printable_ratio": 1.0,
     "length": 26
   },
   "6378": {
@@ -34020,9 +34020,9 @@
     "length": 10
   },
   "6380": {
-    "seed": 6754829044809,
-    "decoded": "\n\\AI/N9¬Cmb!Yk®",
-    "printable_ratio": 0.8125,
+    "seed": 14695943183035,
+    "decoded": "MouseButton1Down",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "6381": {
@@ -34134,9 +34134,9 @@
     "length": 4
   },
   "6399": {
-    "seed": 7552005688764,
-    "decoded": "CÏ2STmHÚ1ô¤KP¯Vv¾>[~gk&",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 10722355434368,
+    "decoded": "rbxassetid://6808486454",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "6400": {
@@ -34338,9 +34338,9 @@
     "length": 10
   },
   "6441": {
-    "seed": 20051579461157,
-    "decoded": "ÏxþCnOklV\ti'x£«#5¼i*T½(B?\\¦ÐNyRØ;",
-    "printable_ratio": 0.7058823529411765,
+    "seed": 34132493909526,
+    "decoded": "I guess this is how the story goes",
+    "printable_ratio": 1.0,
     "length": 34
   },
   "6442": {
@@ -34530,9 +34530,9 @@
     "length": 4
   },
   "6479": {
-    "seed": 234881564781,
-    "decoded": "J\u00173!ç6g:J[ 0N@°l",
-    "printable_ratio": 0.8125,
+    "seed": 13465818617982,
+    "decoded": "FancyTextRunning",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "6480": {
@@ -34596,9 +34596,9 @@
     "length": 22
   },
   "6491": {
-    "seed": 858363117967,
-    "decoded": "B~°÷CPp\r{L*=b",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 17692857278510,
+    "decoded": "TextXAlignment",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "6492": {
@@ -34710,9 +34710,9 @@
     "length": 17
   },
   "6514": {
-    "seed": 24923549740373,
-    "decoded": "ÄN&4ê×tT@fe?o6Z_I",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 22720648882516,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "6515": {
@@ -34752,9 +34752,9 @@
     "length": 3
   },
   "6522": {
-    "seed": 18851101876810,
-    "decoded": " ¬fÙ'-Å-v\u00039\u0004m\u00169Z*vêXØ=tP|&oªqTÿ£©3¨7\\ïR\u001djIRUøTªs¡O\u000e\u0001­2Bà\r]wà$Ã(JÆ<\n]½*Æ¨píXÌ1",
-    "printable_ratio": 0.5280898876404494,
+    "seed": 23584977709798,
+    "decoded": "Did you guys know you could save 15% or more on your car insurance by switching to Geico?",
+    "printable_ratio": 1.0,
     "length": 89
   },
   "6523": {
@@ -34914,15 +34914,15 @@
     "length": 15
   },
   "6550": {
-    "seed": 20493997450567,
-    "decoded": "4S«Ý\u001b\u0017#=³oV\u0001¥%}mqssPèOK·C3àix(»:§\"ÕwixÑj¥L\"\\¡0P¯/F8{Þ, $ìÍðA\u000f'zLdùòx",
-    "printable_ratio": 0.581081081081081,
+    "seed": 9136683225246,
+    "decoded": "Get NordVpn today. Once again thanks to Nordvpn for sponsoring this video.",
+    "printable_ratio": 1.0,
     "length": 74
   },
   "6552": {
-    "seed": 29707111691785,
-    "decoded": "ÜkZ$÷,L093n,o# ",
-    "printable_ratio": 0.8125,
+    "seed": 24095637842900,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "6553": {
@@ -35178,9 +35178,9 @@
     "length": 13
   },
   "6602": {
-    "seed": 22235244111986,
-    "decoded": "{slc1\\f¿×ÒaH$vDq",
-    "printable_ratio": 0.8125,
+    "seed": 15458764299294,
+    "decoded": "BackgroundColor3",
+    "printable_ratio": 1.0,
     "length": 16
   },
   "6603": {
@@ -35208,9 +35208,9 @@
     "length": 3
   },
   "6609": {
-    "seed": 28690028393519,
-    "decoded": "PÁM\\'oj>6u?NûiT3uÜTÿÇe",
-    "printable_ratio": 0.7727272727272727,
+    "seed": 29963022874240,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "6610": {
@@ -35346,9 +35346,9 @@
     "length": 4
   },
   "6636": {
-    "seed": 31728429595062,
-    "decoded": "¨\u0018=mý½\u00115tCÛJÛf5t$)\u0018hE\\T\tÚJx;g·{#Ä)g-ØBoy<Oa",
-    "printable_ratio": 0.6739130434782609,
+    "seed": 3006279894391,
+    "decoded": "I'm in my prime but this ain't even final form",
+    "printable_ratio": 1.0,
     "length": 46
   },
   "6637": {
@@ -35634,9 +35634,9 @@
     "length": 6
   },
   "6691": {
-    "seed": 14793881017064,
-    "decoded": "ºQAFmDnbuç-T7%~t",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 31215985981640,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "6692": {
@@ -35676,9 +35676,9 @@
     "length": 7
   },
   "6700": {
-    "seed": 12713523238688,
-    "decoded": "POyRÆM\rKT6Éwx\fsa.\u0019U?\n",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 30352167401269,
+    "decoded": "rbxassetid://9109520990",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "6701": {
@@ -35730,9 +35730,9 @@
     "length": 3
   },
   "6709": {
-    "seed": 2860355552563,
-    "decoded": "ÒWaÑ\u0003s)i\n|]gJ0",
-    "printable_ratio": 0.7857142857142857,
+    "seed": 4711063898257,
+    "decoded": "MouseButton1Up",
+    "printable_ratio": 1.0,
     "length": 14
   },
   "6710": {
@@ -35808,9 +35808,9 @@
     "length": 16
   },
   "6723": {
-    "seed": 3993256707907,
-    "decoded": "b`, ¨>>}@Z92z\u000eT8¡]$Ma",
-    "printable_ratio": 0.8181818181818182,
+    "seed": 26612847538280,
+    "decoded": "rgb history in console",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "6724": {
@@ -36156,9 +36156,9 @@
     "length": 6
   },
   "6786": {
-    "seed": 13238497875988,
-    "decoded": "#®{V/@]+qV.>",
-    "printable_ratio": 0.8461538461538461,
+    "seed": 8755361091565,
+    "decoded": "AutomaticSize",
+    "printable_ratio": 1.0,
     "length": 13
   },
   "6788": {
@@ -36192,9 +36192,9 @@
     "length": 4
   },
   "6794": {
-    "seed": 25166697803207,
-    "decoded": "~tq`~L[íµI´ì`A^\u0000/rSAzhVÞaj½\u0010+øqÐ6\u001a|RZwqÐK §+ä'|ïòNH)äv\u00190ã\u001aXt=n) |D\\Û\u0010 4&õèhaÞûl",
-    "printable_ratio": 0.6022727272727273,
+    "seed": 22401078323391,
+    "decoded": "we've got millions of free child place holidays available with 22kg of baggage included.",
+    "printable_ratio": 1.0,
     "length": 88
   },
   "6795": {
@@ -36222,9 +36222,9 @@
     "length": 6
   },
   "6799": {
-    "seed": 2704951641323,
-    "decoded": "Shni+\tióª³Smhn\\@¹ý\\eY",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 6599085607936,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "6800": {
@@ -36606,9 +36606,9 @@
     "length": 9
   },
   "6867": {
-    "seed": 2693582882022,
-    "decoded": "pF<ïr\nE\",´÷+r_þtaô)ÁW5",
-    "printable_ratio": 0.6956521739130435,
+    "seed": 26155434012563,
+    "decoded": "rbxassetid://6820492147",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "6868": {
@@ -37140,9 +37140,9 @@
     "length": 8
   },
   "6969": {
-    "seed": 22977190373835,
-    "decoded": "I.»r1|*\u0012).T.S\u000f]l\u0019x4@h",
-    "printable_ratio": 0.7391304347826086,
+    "seed": 24432361139313,
+    "decoded": "rbxassetid://9109527519",
+    "printable_ratio": 1.0,
     "length": 23
   },
   "6971": {
@@ -37206,9 +37206,9 @@
     "length": 4
   },
   "6981": {
-    "seed": 10060176200268,
-    "decoded": "$AJ\\\u0001IU9\n;rg,F_Þ",
-    "printable_ratio": 0.8235294117647058,
+    "seed": 12574280537823,
+    "decoded": "MouseButton1Click",
+    "printable_ratio": 1.0,
     "length": 17
   },
   "6982": {
@@ -37344,9 +37344,9 @@
     "length": 5
   },
   "7009": {
-    "seed": 778416095594,
-    "decoded": "(?K^v\tÎ]Ë\r^]/5i%ß2\bæ\n",
-    "printable_ratio": 0.7272727272727273,
+    "seed": 1487200633524,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "7010": {
@@ -37470,9 +37470,9 @@
     "length": 11
   },
   "7032": {
-    "seed": 22136509163588,
-    "decoded": "G,Zv b(%è3F7;KVFCûr4",
-    "printable_ratio": 0.8181818181818182,
+    "seed": 27418236269023,
+    "decoded": "BackgroundTransparency",
+    "printable_ratio": 1.0,
     "length": 22
   },
   "7033": {
@@ -37662,9 +37662,9 @@
     "length": 10
   },
   "7067": {
-    "seed": 23287862127196,
-    "decoded": "Ûm\n=~7FD-Ùcf`f:£z\r}øl Þn",
-    "printable_ratio": 0.7307692307692307,
+    "seed": 25863256993547,
+    "decoded": "Want a break from the ads?",
+    "printable_ratio": 1.0,
     "length": 26
   },
   "7068": {
@@ -37734,9 +37734,9 @@
     "length": 5
   },
   "7081": {
-    "seed": 622336999713,
-    "decoded": "nh ]<|Nwºk\u001d#:­|¢°u#buk",
-    "printable_ratio": 0.7083333333333334,
+    "seed": 4724688308376,
+    "decoded": "rbxassetid://15603081727",
+    "printable_ratio": 1.0,
     "length": 24
   },
   "7082": {

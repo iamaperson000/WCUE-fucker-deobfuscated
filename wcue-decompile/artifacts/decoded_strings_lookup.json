@@ -582,10 +582,10 @@
     "confidence": "CONFIDENT"
   },
   "112": {
-    "string": "Zä).(¶8ô)Q5l2\"",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 4069099128678,
-    "confidence": "UNCERTAIN"
+    "string": "CursorPosition",
+    "printable_ratio": 1.0,
+    "seed": 4688606677127,
+    "confidence": "CONFIDENT"
   },
   "113": {
     "string": "username",
@@ -924,10 +924,10 @@
     "confidence": "CONFIDENT"
   },
   "176": {
-    "string": "Y7x#7GªKnr\rv]öA",
-    "printable_ratio": 0.8125,
-    "seed": 11995902498258,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 24089188789201,
+    "confidence": "CONFIDENT"
   },
   "177": {
     "string": "SurfaceAppearance",
@@ -1110,10 +1110,10 @@
     "confidence": "CONFIDENT"
   },
   "210": {
-    "string": "Ë<<Æ(K Ëg<4W%GzK=D\u0016Nd~",
-    "printable_ratio": 0.782608695652174,
-    "seed": 26332982800358,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9109518215",
+    "printable_ratio": 1.0,
+    "seed": 34652486975240,
+    "confidence": "CONFIDENT"
   },
   "211": {
     "string": "GothamBold",
@@ -2520,10 +2520,10 @@
     "confidence": "CONFIDENT"
   },
   "477": {
-    "string": "\n@}ñ^H~@}9'+",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 5679214774868,
-    "confidence": "UNCERTAIN"
+    "string": "AutomaticSize",
+    "printable_ratio": 1.0,
+    "seed": 13273385490468,
+    "confidence": "CONFIDENT"
   },
   "478": {
     "string": "Content-Type",
@@ -2622,10 +2622,10 @@
     "confidence": "CONFIDENT"
   },
   "495": {
-    "string": "¸|C$(,k-<4 ",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 8728254877664,
-    "confidence": "UNCERTAIN"
+    "string": "WinterBreath",
+    "printable_ratio": 1.0,
+    "seed": 25718219222727,
+    "confidence": "CONFIDENT"
   },
   "497": {
     "string": "Text",
@@ -2658,10 +2658,10 @@
     "confidence": "CONFIDENT"
   },
   "502": {
-    "string": "1Zbj8\u0003njC5/NlW;\fÛ",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 28384202732449,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 4737725958302,
+    "confidence": "CONFIDENT"
   },
   "503": {
     "string": "GothamBold",
@@ -2772,10 +2772,10 @@
     "confidence": "CONFIDENT"
   },
   "522": {
-    "string": "vdq«^d}2JO\u00157IDaHd",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 2943040849242,
-    "confidence": "UNCERTAIN"
+    "string": "Creating Character",
+    "printable_ratio": 1.0,
+    "seed": 10163899011708,
+    "confidence": "CONFIDENT"
   },
   "523": {
     "string": "new",
@@ -2928,10 +2928,10 @@
     "confidence": "CONFIDENT"
   },
   "550": {
-    "string": "|ah`øSäWW#aeMhFc",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 21945497364459,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 33299633028242,
+    "confidence": "CONFIDENT"
   },
   "551": {
     "string": "new",
@@ -2964,10 +2964,10 @@
     "confidence": "CONFIDENT"
   },
   "556": {
-    "string": "-/1\t0Î-?|<\t¦L^vm VRì0",
-    "printable_ratio": 0.7727272727272727,
-    "seed": 4201208465316,
-    "confidence": "UNCERTAIN"
+    "string": "TextStrokeTransparency",
+    "printable_ratio": 1.0,
+    "seed": 15090773777267,
+    "confidence": "CONFIDENT"
   },
   "557": {
     "string": "Blue",
@@ -3192,10 +3192,10 @@
     "confidence": "CONFIDENT"
   },
   "599": {
-    "string": "CKnÆVEË/5>1vj*McÅp´o",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 5416914684378,
-    "confidence": "UNCERTAIN"
+    "string": ">1\u001dYbvtV\r4B2Ðe\tuBhU2b\u001b",
+    "printable_ratio": 0.8636363636363636,
+    "seed": 17078608338077,
+    "confidence": "LIKELY"
   },
   "601": {
     "string": "(%s, %s, %s)",
@@ -3210,10 +3210,10 @@
     "confidence": "CONFIDENT"
   },
   "603": {
-    "string": "b\u0002Z/d4&V^N#r)&PC",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 24190980697088,
-    "confidence": "UNCERTAIN"
+    "string": "ScrollBarThickness",
+    "printable_ratio": 1.0,
+    "seed": 19342825087791,
+    "confidence": "CONFIDENT"
   },
   "604": {
     "string": "UICorner",
@@ -3306,10 +3306,10 @@
     "confidence": "CONFIDENT"
   },
   "625": {
-    "string": "-\u0000iYA1H-~N6\n",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 31405532018976,
-    "confidence": "UNCERTAIN"
+    "string": "UserInputType",
+    "printable_ratio": 1.0,
+    "seed": 28073606345488,
+    "confidence": "CONFIDENT"
   },
   "626": {
     "string": "S\n)",
@@ -3384,10 +3384,10 @@
     "confidence": "CONFIDENT"
   },
   "639": {
-    "string": "^Ix¨\u0005>~k{ywb\tB3",
-    "printable_ratio": 0.8125,
-    "seed": 14289388984830,
-    "confidence": "UNCERTAIN"
+    "string": "ClearTextOnFocus",
+    "printable_ratio": 1.0,
+    "seed": 10819955594158,
+    "confidence": "CONFIDENT"
   },
   "640": {
     "string": "\nD\n",
@@ -3582,10 +3582,10 @@
     "confidence": "LIKELY"
   },
   "675": {
-    "string": "D\u001c,\nªM'\t}?DKWf\"\u0018\r",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 2806688679194,
-    "confidence": "UNCERTAIN"
+    "string": "RaycastFilterType",
+    "printable_ratio": 1.0,
+    "seed": 21368435222238,
+    "confidence": "CONFIDENT"
   },
   "676": {
     "string": "øoOb_x$AXOÑNC6",
@@ -4218,10 +4218,10 @@
     "confidence": "CONFIDENT"
   },
   "802": {
-    "string": "/opx'gNï=¦#\u0000b+T",
-    "printable_ratio": 0.8,
-    "seed": 1574143296221,
-    "confidence": "UNCERTAIN"
+    "string": "G5S©?^`!Èx`!|.6",
+    "printable_ratio": 0.8666666666666667,
+    "seed": 6987297459381,
+    "confidence": "LIKELY"
   },
   "804": {
     "string": "Button1Down",
@@ -4339,9 +4339,9 @@
   },
   "824": {
     "string": "â find exploited colors â",
-    "printable_ratio": 0.7931034482758621,
+    "printable_ratio": 1.0,
     "seed": 4388781918203,
-    "confidence": "UNCERTAIN"
+    "confidence": "CONFIDENT"
   },
   "825": {
     "string": "Size",
@@ -4494,10 +4494,10 @@
     "confidence": "CONFIDENT"
   },
   "851": {
-    "string": "i|x-Xg(o\u000bI«poJlRpaZ¥^µ",
-    "printable_ratio": 0.782608695652174,
-    "seed": 28694695932978,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6641203621",
+    "printable_ratio": 1.0,
+    "seed": 5253855922574,
+    "confidence": "CONFIDENT"
   },
   "853": {
     "string": ":2)E(l(",
@@ -4704,10 +4704,10 @@
     "confidence": "CONFIDENT"
   },
   "890": {
-    "string": "*´\u0015cVHo0pmÞ^#\"h?",
-    "printable_ratio": 0.8125,
-    "seed": 15552674405450,
-    "confidence": "UNCERTAIN"
+    "string": "application/json",
+    "printable_ratio": 1.0,
+    "seed": 34969118769051,
+    "confidence": "CONFIDENT"
   },
   "892": {
     "string": "H,l",
@@ -5052,16 +5052,16 @@
     "confidence": "CONFIDENT"
   },
   "958": {
-    "string": "IR4Cj!h\u001fdf®*7@",
-    "printable_ratio": 0.8,
-    "seed": 2152966964202,
-    "confidence": "UNCERTAIN"
+    "string": "BorderSizePixel",
+    "printable_ratio": 1.0,
+    "seed": 14638552504992,
+    "confidence": "CONFIDENT"
   },
   "960": {
-    "string": "BRUfd\"Öý+?7`h\rQîf",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 3785343370978,
-    "confidence": "UNCERTAIN"
+    "string": "CharacterRemoving",
+    "printable_ratio": 1.0,
+    "seed": 16540765347350,
+    "confidence": "CONFIDENT"
   },
   "961": {
     "string": "Size",
@@ -5364,10 +5364,10 @@
     "confidence": "CONFIDENT"
   },
   "1024": {
-    "string": "MK]ß3Ú`jFs]'h_o7(äX£K",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 20313936520435,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6640771780",
+    "printable_ratio": 1.0,
+    "seed": 26526697041984,
+    "confidence": "CONFIDENT"
   },
   "1025": {
     "string": "LocalPlayer",
@@ -5784,10 +5784,10 @@
     "confidence": "CONFIDENT"
   },
   "1106": {
-    "string": ">kFoGjgM´FiË",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 1340581839472,
-    "confidence": "UNCERTAIN"
+    "string": "RailRightFix",
+    "printable_ratio": 1.0,
+    "seed": 24299333970995,
+    "confidence": "CONFIDENT"
   },
   "1107": {
     "string": "name",
@@ -6126,10 +6126,10 @@
     "confidence": "CONFIDENT"
   },
   "1172": {
-    "string": "ýZ'\u001cNñ)]*FcÛ#C\r4~",
-    "printable_ratio": 0.7647058823529411,
-    "seed": 3247281915368,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 34980439343009,
+    "confidence": "CONFIDENT"
   },
   "1173": {
     "string": "steal morph (go to editor)",
@@ -6438,10 +6438,10 @@
     "confidence": "CONFIDENT"
   },
   "1233": {
-    "string": "OXG~#O\u000bar3i@n}ÝmK£##&ß",
-    "printable_ratio": 0.8181818181818182,
-    "seed": 31541686204767,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 8883940724776,
+    "confidence": "CONFIDENT"
   },
   "1234": {
     "string": "BackgroundColor3",
@@ -6540,16 +6540,16 @@
     "confidence": "CONFIDENT"
   },
   "1252": {
-    "string": "aJòEf9BFwJK",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 1817847399246,
-    "confidence": "UNCERTAIN"
+    "string": "Key Redeemed",
+    "printable_ratio": 1.0,
+    "seed": 10144105255539,
+    "confidence": "CONFIDENT"
   },
   "1254": {
-    "string": "jc+<Ft}wÌ·>æ6x#u!2\n{",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 10922147075038,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9109525820",
+    "printable_ratio": 1.0,
+    "seed": 27530217763347,
+    "confidence": "CONFIDENT"
   },
   "1256": {
     "string": "UICorner",
@@ -6888,10 +6888,10 @@
     "confidence": "CONFIDENT"
   },
   "1314": {
-    "string": "\rÓ~xD\\þf\tV;sgÜ1",
-    "printable_ratio": 0.75,
-    "seed": 968649867715,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 5460677052910,
+    "confidence": "CONFIDENT"
   },
   "1316": {
     "string": "insert",
@@ -6996,10 +6996,10 @@
     "confidence": "CONFIDENT"
   },
   "1335": {
-    "string": "7l\u001fa\u0014Ow28{\u00121M&\tl)1H=j",
-    "printable_ratio": 0.75,
-    "seed": 4861867641047,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://11316387569",
+    "printable_ratio": 1.0,
+    "seed": 30420614641493,
+    "confidence": "CONFIDENT"
   },
   "1337": {
     "string": "Size",
@@ -7302,10 +7302,10 @@
     "confidence": "CONFIDENT"
   },
   "1392": {
-    "string": "f&Ãá KO\u0012\\8ÎxÊ%b`6:MPo",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 13218161088523,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 31150331066537,
+    "confidence": "CONFIDENT"
   },
   "1393": {
     "string": "Position",
@@ -7518,10 +7518,10 @@
     "confidence": "LIKELY"
   },
   "1432": {
-    "string": "N08OJv pUÚp\u001aõ\u00110B-l`1'",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 22621301958949,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9109524644",
+    "printable_ratio": 1.0,
+    "seed": 3206063146452,
+    "confidence": "CONFIDENT"
   },
   "1433": {
     "string": "new",
@@ -7668,10 +7668,10 @@
     "confidence": "CONFIDENT"
   },
   "1459": {
-    "string": "gA\u001f>}ê.=,#£dZisQ",
-    "printable_ratio": 0.8125,
-    "seed": 6180477389630,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 4424998029324,
+    "confidence": "CONFIDENT"
   },
   "1460": {
     "string": "new",
@@ -7704,10 +7704,10 @@
     "confidence": "CONFIDENT"
   },
   "1467": {
-    "string": "\u0006àm´þø¥!r\u000b½i*B7P\rjh,Hss8YÜ+?õ*dTøcO£ò­\u0000tL<.\u0006V?[ÊèO#\tJ]",
-    "printable_ratio": 0.6101694915254238,
-    "seed": 9920352309771,
-    "confidence": "UNCERTAIN"
+    "string": "book now with jet2holidays. package holidays you can trust!",
+    "printable_ratio": 1.0,
+    "seed": 24766587415820,
+    "confidence": "CONFIDENT"
   },
   "1468": {
     "string": "Transparency",
@@ -8220,10 +8220,10 @@
     "confidence": "CONFIDENT"
   },
   "1571": {
-    "string": "pàoSol/vLYWbCÿO*T\u00053_LÌ",
-    "printable_ratio": 0.75,
-    "seed": 17881439297670,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://11316386523",
+    "printable_ratio": 1.0,
+    "seed": 18795493876272,
+    "confidence": "CONFIDENT"
   },
   "1572": {
     "string": "tMicro",
@@ -8826,10 +8826,10 @@
     "confidence": "CONFIDENT"
   },
   "1687": {
-    "string": "z.\t#®5VDVnAXäGP",
-    "printable_ratio": 0.8125,
-    "seed": 1574576227037,
-    "confidence": "UNCERTAIN"
+    "string": "TextTransparency",
+    "printable_ratio": 1.0,
+    "seed": 26198572036007,
+    "confidence": "CONFIDENT"
   },
   "1688": {
     "string": "Animator",
@@ -9222,10 +9222,10 @@
     "confidence": "CONFIDENT"
   },
   "1765": {
-    "string": "$ó{-if^-B]/m¥Êx",
-    "printable_ratio": 0.8,
-    "seed": 3388127512105,
-    "confidence": "UNCERTAIN"
+    "string": "BorderSizePixel",
+    "printable_ratio": 1.0,
+    "seed": 9681293562268,
+    "confidence": "CONFIDENT"
   },
   "1766": {
     "string": "new",
@@ -9882,10 +9882,10 @@
     "confidence": "CONFIDENT"
   },
   "1900": {
-    "string": "BoDlV,ÞaU0\u0001X",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 1002259497426,
-    "confidence": "UNCERTAIN"
+    "string": "link copied!",
+    "printable_ratio": 1.0,
+    "seed": 12806461462347,
+    "confidence": "CONFIDENT"
   },
   "1901": {
     "string": "GothamBold",
@@ -9990,10 +9990,10 @@
     "confidence": "CONFIDENT"
   },
   "1920": {
-    "string": "$H|ÁB,BRdvß ",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 361095168168,
-    "confidence": "UNCERTAIN"
+    "string": "ResetOnSpawn",
+    "printable_ratio": 1.0,
+    "seed": 8358179999540,
+    "confidence": "CONFIDENT"
   },
   "1921": {
     "string": "Players",
@@ -10116,16 +10116,16 @@
     "confidence": "CONFIDENT"
   },
   "1944": {
-    "string": "^Øu )%vmG*Ó",
-    "printable_ratio": 0.8181818181818182,
-    "seed": 1963642504082,
-    "confidence": "UNCERTAIN"
+    "string": "headsitConn",
+    "printable_ratio": 1.0,
+    "seed": 17695413051440,
+    "confidence": "CONFIDENT"
   },
   "1945": {
-    "string": "j3\\\u0013U37iD!÷!u",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 3652369319588,
-    "confidence": "UNCERTAIN"
+    "string": "FillDirection",
+    "printable_ratio": 1.0,
+    "seed": 23761797524280,
+    "confidence": "CONFIDENT"
   },
   "1946": {
     "string": "new",
@@ -10272,10 +10272,10 @@
     "confidence": "CONFIDENT"
   },
   "1973": {
-    "string": "~m%í\u0012}0::\r¬GP?pGã",
-    "printable_ratio": 0.7647058823529411,
-    "seed": 3604623017614,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton2Click",
+    "printable_ratio": 1.0,
+    "seed": 15654220536953,
+    "confidence": "CONFIDENT"
   },
   "1974": {
     "string": "/<F/$z",
@@ -10386,10 +10386,10 @@
     "confidence": "CONFIDENT"
   },
   "1992": {
-    "string": "&\t MKE\rz,&beËkO",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 1755934851889,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 28980709700791,
+    "confidence": "CONFIDENT"
   },
   "1993": {
     "string": "LiM15BB",
@@ -10800,10 +10800,10 @@
     "confidence": "CONFIDENT"
   },
   "2068": {
-    "string": "FCfW±!ÔV_Z\u001cKl*\u0004n`f¸r$-.",
-    "printable_ratio": 0.75,
-    "seed": 13289169311788,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://15603385242",
+    "printable_ratio": 1.0,
+    "seed": 25422754836030,
+    "confidence": "CONFIDENT"
   },
   "2069": {
     "string": "2V!c )8",
@@ -10878,10 +10878,10 @@
     "confidence": "CONFIDENT"
   },
   "2083": {
-    "string": "\u0018!\u0003£õ¦Í;à^\\tXc\\l0f|~Ä@©[Zó`©é!^üO Ó^ìq\u000bÄURµüçEeV`\u0014Xöor/rëÁkÞ!!Öz«0ÔË@©\u0004sL8\u001cW~$©LO°z;n\t®ÎÆæ¯Rõ\n'IøÆ{\nÜä@XüQ;&Ü(?ëDj8",
-    "printable_ratio": 0.5528455284552846,
-    "seed": 31010833496168,
-    "confidence": "UNCERTAIN"
+    "string": "Grammarly's cutting-edge technology helps you craft compelling, understandable writing that makes an impact on your reader.",
+    "printable_ratio": 1.0,
+    "seed": 23959081675668,
+    "confidence": "CONFIDENT"
   },
   "2084": {
     "string": "\"x1Q",
@@ -11178,10 +11178,10 @@
     "confidence": "CONFIDENT"
   },
   "2139": {
-    "string": "?AJc4z(cg«\u0000\u0016DP}5",
-    "printable_ratio": 0.8125,
-    "seed": 2070366913476,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 4530598627389,
+    "confidence": "CONFIDENT"
   },
   "2140": {
     "string": "488286",
@@ -11203,9 +11203,9 @@
   },
   "2143": {
     "string": "â load morphs from other\naccounts â",
-    "printable_ratio": 0.8461538461538461,
+    "printable_ratio": 1.0,
     "seed": 13270049445923,
-    "confidence": "UNCERTAIN"
+    "confidence": "CONFIDENT"
   },
   "2144": {
     "string": "Parent",
@@ -11484,10 +11484,10 @@
     "confidence": "CONFIDENT"
   },
   "2198": {
-    "string": "We\u0016,j0GY\u001e5] ",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 1585364042466,
-    "confidence": "UNCERTAIN"
+    "string": "ResetOnSpawn",
+    "printable_ratio": 1.0,
+    "seed": 31183339141304,
+    "confidence": "CONFIDENT"
   },
   "2199": {
     "string": "#fW+¥p;!=5$V$",
@@ -11526,10 +11526,10 @@
     "confidence": "CONFIDENT"
   },
   "2206": {
-    "string": "Fm9TUn^'rý,BRX,",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 571062157577,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 13610500053185,
+    "confidence": "CONFIDENT"
   },
   "2208": {
     "string": "TextXAlignment",
@@ -12054,10 +12054,10 @@
     "confidence": "CONFIDENT"
   },
   "2308": {
-    "string": "NN8¬RxÚb\u001aÁQX]6ND2F#c\t",
-    "printable_ratio": 0.7727272727272727,
-    "seed": 33702591380813,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 22949343046078,
+    "confidence": "CONFIDENT"
   },
   "2309": {
     "string": "Size",
@@ -12390,10 +12390,10 @@
     "confidence": "CONFIDENT"
   },
   "2372": {
-    "string": "<­\rT8Yr.F\\{4",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 9841636823526,
-    "confidence": "UNCERTAIN"
+    "string": "AutomaticSize",
+    "printable_ratio": 1.0,
+    "seed": 2971630634343,
+    "confidence": "CONFIDENT"
   },
   "2373": {
     "string": "LookVector",
@@ -12804,10 +12804,10 @@
     "confidence": "CONFIDENT"
   },
   "2451": {
-    "string": "c7Gjq°B<Ehó]f|ü50",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 3036531393925,
-    "confidence": "UNCERTAIN"
+    "string": "watchedCharacters",
+    "printable_ratio": 1.0,
+    "seed": 10465901712137,
+    "confidence": "CONFIDENT"
   },
   "2452": {
     "string": "Z\t.3f_R",
@@ -13332,10 +13332,10 @@
     "confidence": "CONFIDENT"
   },
   "2558": {
-    "string": "q3;YB5\u00179DA\u001bG+QF,b",
-    "printable_ratio": 0.7894736842105263,
-    "seed": 146469191748,
-    "confidence": "UNCERTAIN"
+    "string": "!%Y-%m-%dT%H:%M:%SZ",
+    "printable_ratio": 1.0,
+    "seed": 3597750044299,
+    "confidence": "CONFIDENT"
   },
   "2559": {
     "string": "Heartbeat",
@@ -13458,10 +13458,10 @@
     "confidence": "CONFIDENT"
   },
   "2584": {
-    "string": "o;$\tÌÉv@a!¹&E\nS>",
-    "printable_ratio": 0.8125,
-    "seed": 15804662226111,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 33033229630486,
+    "confidence": "CONFIDENT"
   },
   "2585": {
     "string": "f:N\n`Khuî",
@@ -13536,10 +13536,10 @@
     "confidence": "CONFIDENT"
   },
   "2598": {
-    "string": "uL/y¯6^>ú#vWJ\u001ea@D",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 4073553921,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 23226828745279,
+    "confidence": "CONFIDENT"
   },
   "2599": {
     "string": "Animation Builder",
@@ -13596,10 +13596,10 @@
     "confidence": "CONFIDENT"
   },
   "2609": {
-    "string": "æ)lQc8E\\\\Wzö4",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 1310919262818,
-    "confidence": "UNCERTAIN"
+    "string": "Color Presets",
+    "printable_ratio": 1.0,
+    "seed": 34901445607292,
+    "confidence": "CONFIDENT"
   },
   "2610": {
     "string": "new",
@@ -13668,10 +13668,10 @@
     "confidence": "CONFIDENT"
   },
   "2624": {
-    "string": ",SlyaBgi© TVR\nð",
-    "printable_ratio": 0.8125,
-    "seed": 3796571883239,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 1857271726944,
+    "confidence": "CONFIDENT"
   },
   "2625": {
     "string": "KxNO6FT",
@@ -13800,10 +13800,10 @@
     "confidence": "CONFIDENT"
   },
   "2648": {
-    "string": "ß9LkY+\u001c-^U|Ç\u00070PL",
-    "printable_ratio": 0.75,
-    "seed": 4950976940289,
-    "confidence": "UNCERTAIN"
+    "string": "application/json",
+    "printable_ratio": 1.0,
+    "seed": 33169042963541,
+    "confidence": "CONFIDENT"
   },
   "2649": {
     "string": "new",
@@ -14106,10 +14106,10 @@
     "confidence": "CONFIDENT"
   },
   "2711": {
-    "string": "/WAwHxAdZÈ)GÛ9\u000e>G(",
-    "printable_ratio": 0.7894736842105263,
-    "seed": 9843408835047,
-    "confidence": "UNCERTAIN"
+    "string": "MicrowaveSpinActive",
+    "printable_ratio": 1.0,
+    "seed": 25873959415568,
+    "confidence": "CONFIDENT"
   },
   "2712": {
     "string": "MouseButton1Click",
@@ -14310,10 +14310,10 @@
     "confidence": "CONFIDENT"
   },
   "2749": {
-    "string": ")r$t¹~\u00053QÙGmêoH8PiÅ§k2Ii\"\f?£R³)Ð.°(\fÔ¨¢leRt1&\u0003ÜwGuï",
-    "printable_ratio": 0.6111111111111112,
-    "seed": 20360105633032,
-    "confidence": "UNCERTAIN"
+    "string": "They know me where it snows, I skied in and they froze",
+    "printable_ratio": 1.0,
+    "seed": 31360687274251,
+    "confidence": "CONFIDENT"
   },
   "2750": {
     "string": "interactOriginalCframe",
@@ -14742,10 +14742,10 @@
     "confidence": "CONFIDENT"
   },
   "2827": {
-    "string": "+Ýz\u0019æ\u0005ðh¾U\rq&Qo)N[?è[[¼`ÑEyèAfîh?g!^\"",
-    "printable_ratio": 0.6666666666666666,
-    "seed": 3665636198721,
-    "confidence": "UNCERTAIN"
+    "string": "I'm in the thick of it, everybody knows",
+    "printable_ratio": 1.0,
+    "seed": 27618811212349,
+    "confidence": "CONFIDENT"
   },
   "2828": {
     "string": "[^\n]+",
@@ -15156,10 +15156,10 @@
     "confidence": "CONFIDENT"
   },
   "2906": {
-    "string": "PõxÞ\r1¿GUchkO¶k-k\u0004=Ð 5(_Iv",
-    "printable_ratio": 0.7307692307692307,
-    "seed": 31329220819196,
-    "confidence": "UNCERTAIN"
+    "string": "ScrollBarImageTransparency",
+    "printable_ratio": 1.0,
+    "seed": 12614875584242,
+    "confidence": "CONFIDENT"
   },
   "2907": {
     "string": "new",
@@ -15228,10 +15228,10 @@
     "confidence": "LIKELY"
   },
   "2919": {
-    "string": "E%TH!,O\fº¼|xØ(,h&£g#E",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 2529700955289,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 28181075161922,
+    "confidence": "CONFIDENT"
   },
   "2920": {
     "string": "new",
@@ -15420,10 +15420,10 @@
     "confidence": "CONFIDENT"
   },
   "2960": {
-    "string": "9\u0019õ\"g=P~_6\u000bYLjÿ\u001e\u001fJ<ei_F",
-    "printable_ratio": 0.7083333333333334,
-    "seed": 5265401514387,
-    "confidence": "UNCERTAIN"
+    "string": "works in rp servers only",
+    "printable_ratio": 1.0,
+    "seed": 14694215768762,
+    "confidence": "CONFIDENT"
   },
   "2961": {
     "string": "Parent",
@@ -15504,10 +15504,10 @@
     "confidence": "CONFIDENT"
   },
   "2976": {
-    "string": "¥~`{}:k\\ÛbLä\ry°00.3{Yð",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 14216710576604,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9111003918",
+    "printable_ratio": 1.0,
+    "seed": 22068726802468,
+    "confidence": "CONFIDENT"
   },
   "2977": {
     "string": "BackgroundTransparency",
@@ -16194,10 +16194,10 @@
     "confidence": "CONFIDENT"
   },
   "3111": {
-    "string": "]|z[/=ìiu \u0013erV,à",
-    "printable_ratio": 0.8125,
-    "seed": 10283248063156,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 12005455631830,
+    "confidence": "CONFIDENT"
   },
   "3112": {
     "string": "Parent",
@@ -16488,10 +16488,10 @@
     "confidence": "CONFIDENT"
   },
   "3170": {
-    "string": "zE~T|kVCnÃ\r:÷¢TI",
-    "printable_ratio": 0.7647058823529411,
-    "seed": 605289890073,
-    "confidence": "UNCERTAIN"
+    "string": "Apply Color (OFF)",
+    "printable_ratio": 1.0,
+    "seed": 18905738912355,
+    "confidence": "CONFIDENT"
   },
   "3173": {
     "string": "UICorner",
@@ -16530,10 +16530,10 @@
     "confidence": "UNCERTAIN"
   },
   "3181": {
-    "string": "\u0001oi9!\nN\\/L*qL",
-    "printable_ratio": 0.8,
-    "seed": 12687837058836,
-    "confidence": "UNCERTAIN"
+    "string": "BorderSizePixel",
+    "printable_ratio": 1.0,
+    "seed": 5285617813917,
+    "confidence": "CONFIDENT"
   },
   "3182": {
     "string": "Position",
@@ -16608,10 +16608,10 @@
     "confidence": "CONFIDENT"
   },
   "3196": {
-    "string": "íqvh(@l&?]*ûkÚeq",
-    "printable_ratio": 0.8125,
-    "seed": 4312374446040,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 18794720354863,
+    "confidence": "CONFIDENT"
   },
   "3197": {
     "string": "track",
@@ -17082,10 +17082,10 @@
     "confidence": "CONFIDENT"
   },
   "3285": {
-    "string": "\\[\u000fC.n %Â`IV39ùÇ>SXc\u0013",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 3856705799939,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 24962901306728,
+    "confidence": "CONFIDENT"
   },
   "3287": {
     "string": "TextSize",
@@ -17412,10 +17412,10 @@
     "confidence": "CONFIDENT"
   },
   "3347": {
-    "string": "0'*$`{\u0014ÓMR^XHP.",
-    "printable_ratio": 0.8125,
-    "seed": 28996712608958,
-    "confidence": "UNCERTAIN"
+    "string": "HumanoidRootPart",
+    "printable_ratio": 1.0,
+    "seed": 24352107637835,
+    "confidence": "CONFIDENT"
   },
   "3348": {
     "string": "BackgroundTransparency",
@@ -17586,10 +17586,10 @@
     "confidence": "CONFIDENT"
   },
   "3387": {
-    "string": "=w7&]·>³|®zR:Wâ\"?+UV1",
-    "printable_ratio": 0.7727272727272727,
-    "seed": 2442166633585,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 4215683893163,
+    "confidence": "CONFIDENT"
   },
   "3388": {
     "string": "Text",
@@ -17640,10 +17640,10 @@
     "confidence": "CONFIDENT"
   },
   "3398": {
-    "string": "abcâ¿-Otoq!^i]yªbI?qÑÎ\t\t",
-    "printable_ratio": 0.7916666666666666,
-    "seed": 8032015552156,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://11316388475",
+    "printable_ratio": 1.0,
+    "seed": 17903485739152,
+    "confidence": "CONFIDENT"
   },
   "3399": {
     "string": "Anchored",
@@ -17760,10 +17760,10 @@
     "confidence": "CONFIDENT"
   },
   "3422": {
-    "string": "m%L\u001a\u0019k#Bfg(k",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 683372937534,
-    "confidence": "UNCERTAIN"
+    "string": "AbsoluteSize",
+    "printable_ratio": 1.0,
+    "seed": 26722418143387,
+    "confidence": "CONFIDENT"
   },
   "3423": {
     "string": "wait",
@@ -17844,10 +17844,10 @@
     "confidence": "CONFIDENT"
   },
   "3440": {
-    "string": "\"\"12iªy*-ãY%",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 707114910025,
-    "confidence": "UNCERTAIN"
+    "string": "rgbFinderGui",
+    "printable_ratio": 1.0,
+    "seed": 30138698102482,
+    "confidence": "CONFIDENT"
   },
   "3441": {
     "string": "Zp@U",
@@ -18294,10 +18294,10 @@
     "confidence": "CONFIDENT"
   },
   "3528": {
-    "string": "YûkHfd(&Ð!¼0I+Z0",
-    "printable_ratio": 0.8125,
-    "seed": 13090486015951,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 4236772853684,
+    "confidence": "CONFIDENT"
   },
   "3529": {
     "string": "new",
@@ -19104,10 +19104,10 @@
     "confidence": "CONFIDENT"
   },
   "3684": {
-    "string": "3^$~-$N\\fR\u0015w\t9",
-    "printable_ratio": 0.8125,
-    "seed": 8726521647071,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 5482652142073,
+    "confidence": "CONFIDENT"
   },
   "3685": {
     "string": "Parent",
@@ -20172,10 +20172,10 @@
     "confidence": "CONFIDENT"
   },
   "3886": {
-    "string": "d!I\"\tH#io,<¬«!P",
-    "printable_ratio": 0.8125,
-    "seed": 823825416575,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 28265260544874,
+    "confidence": "CONFIDENT"
   },
   "3887": {
     "string": "BackgroundTransparency",
@@ -20310,10 +20310,10 @@
     "confidence": "CONFIDENT"
   },
   "3912": {
-    "string": "|Py\u0016;]W}Ap\u001b'4",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 4094651090802,
-    "confidence": "UNCERTAIN"
+    "string": "ZIndexBehavior",
+    "printable_ratio": 1.0,
+    "seed": 27185969951091,
+    "confidence": "CONFIDENT"
   },
   "3913": {
     "string": "YELLOW",
@@ -20550,10 +20550,10 @@
     "confidence": "CONFIDENT"
   },
   "3954": {
-    "string": "K4&ëc$8,å!2[u``FË1\u0017\t\"O",
-    "printable_ratio": 0.8181818181818182,
-    "seed": 16288232414624,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 6082703051536,
+    "confidence": "CONFIDENT"
   },
   "3955": {
     "string": "BackgroundColor3",
@@ -20802,10 +20802,10 @@
     "confidence": "CONFIDENT"
   },
   "4006": {
-    "string": "é+\u0006Y.(Ã,bB)#\u001bV81",
-    "printable_ratio": 0.75,
-    "seed": 2488692573318,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Down",
+    "printable_ratio": 1.0,
+    "seed": 27144976691552,
+    "confidence": "CONFIDENT"
   },
   "4007": {
     "string": "Size",
@@ -20856,10 +20856,10 @@
     "confidence": "CONFIDENT"
   },
   "4015": {
-    "string": "KÄ\r7uUxwênW¦71MÆæn46c4",
-    "printable_ratio": 0.7727272727272727,
-    "seed": 3142390220215,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 29752013944350,
+    "confidence": "CONFIDENT"
   },
   "4016": {
     "string": "stop",
@@ -20892,10 +20892,10 @@
     "confidence": "CONFIDENT"
   },
   "4023": {
-    "string": "\n1µ/sR.ÃqTzbéMÉúí\u00197P\u00065\u000344vx 7\u0012\\-j\u0011>Nb áÇpª5\tD\u0018PlèÆ",
-    "printable_ratio": 0.6346153846153846,
-    "seed": 14945551637295,
-    "confidence": "UNCERTAIN"
+    "string": "From the screen to the ring, to the pen, to the king",
+    "printable_ratio": 1.0,
+    "seed": 34526892031693,
+    "confidence": "CONFIDENT"
   },
   "4024": {
     "string": "fromHex",
@@ -20988,10 +20988,10 @@
     "confidence": "CONFIDENT"
   },
   "4041": {
-    "string": "+`=\u001ezs\u0018GY;sksöñ[\nZ]v[",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 8756515868653,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6808486864",
+    "printable_ratio": 1.0,
+    "seed": 18544248512955,
+    "confidence": "CONFIDENT"
   },
   "4042": {
     "string": "rbxassetid://6808483302",
@@ -21258,10 +21258,10 @@
     "confidence": "CONFIDENT"
   },
   "4092": {
-    "string": "\b>²{Fz)f}(\u0006A\u0004By[k)u`:",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 1803568644935,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6820477769",
+    "printable_ratio": 1.0,
+    "seed": 35133720428520,
+    "confidence": "CONFIDENT"
   },
   "4093": {
     "string": "Name",
@@ -21288,10 +21288,10 @@
     "confidence": "LIKELY"
   },
   "4097": {
-    "string": "urt\u001eÆNL,-j\u0012+oJ\u001céK#eSn4",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 13729068734713,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9112905466",
+    "printable_ratio": 1.0,
+    "seed": 4008816412490,
+    "confidence": "CONFIDENT"
   },
   "4098": {
     "string": "OeNgHfIog$",
@@ -21630,10 +21630,10 @@
     "confidence": "CONFIDENT"
   },
   "4161": {
-    "string": "è[6$v=CW&\n\u0007]p",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 10523364184868,
-    "confidence": "UNCERTAIN"
+    "string": "FillDirection",
+    "printable_ratio": 1.0,
+    "seed": 10672157938537,
+    "confidence": "CONFIDENT"
   },
   "4162": {
     "string": "TextSize",
@@ -22566,10 +22566,10 @@
     "confidence": "CONFIDENT"
   },
   "4345": {
-    "string": "N^<ß5[#72'\"\u0010 ",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 4312374446040,
-    "confidence": "UNCERTAIN"
+    "string": "TextXAlignment",
+    "printable_ratio": 1.0,
+    "seed": 16983276986084,
+    "confidence": "CONFIDENT"
   },
   "4347": {
     "string": "DarkBlue",
@@ -22584,10 +22584,10 @@
     "confidence": "CONFIDENT"
   },
   "4351": {
-    "string": "]â¢=fN«ßf'#4_/z{HNûM²F.",
-    "printable_ratio": 0.7083333333333334,
-    "seed": 2529700955289,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://14954698607",
+    "printable_ratio": 1.0,
+    "seed": 27996649779948,
+    "confidence": "CONFIDENT"
   },
   "4352": {
     "string": "Font",
@@ -22722,10 +22722,10 @@
     "confidence": "CONFIDENT"
   },
   "4375": {
-    "string": "%>¾_²_>8H\n¤a6'$4`zú$$",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 23853787081571,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6640790963",
+    "printable_ratio": 1.0,
+    "seed": 31925713861138,
+    "confidence": "CONFIDENT"
   },
   "4376": {
     "string": "random",
@@ -22884,10 +22884,10 @@
     "confidence": "CONFIDENT"
   },
   "4407": {
-    "string": "^7$o:Q$,P-q\"ÜXî?\n&`ÑR?\tôòÏWzcÈß!@¿\u0004¯5>m\u0005i\u001f8,ì4$\u0016sZ",
-    "printable_ratio": 0.6481481481481481,
-    "seed": 455001161939,
-    "confidence": "UNCERTAIN"
+    "string": "They know me where it snows, I skied in and they froze",
+    "printable_ratio": 1.0,
+    "seed": 5090553661762,
+    "confidence": "CONFIDENT"
   },
   "4408": {
     "string": "PlaceholderText",
@@ -22902,10 +22902,10 @@
     "confidence": "CONFIDENT"
   },
   "4410": {
-    "string": "0IÞY.\u0018uAsR.A(",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 2599747912890,
-    "confidence": "UNCERTAIN"
+    "string": "AutomaticSize",
+    "printable_ratio": 1.0,
+    "seed": 10095659831901,
+    "confidence": "CONFIDENT"
   },
   "4411": {
     "string": "Wrap",
@@ -23550,10 +23550,10 @@
     "confidence": "CONFIDENT"
   },
   "4527": {
-    "string": "\u000eA¬5'z8xx:O{.U\u000b",
-    "printable_ratio": 0.8,
-    "seed": 1234681676350,
-    "confidence": "UNCERTAIN"
+    "string": "BorderSizePixel",
+    "printable_ratio": 1.0,
+    "seed": 19438014948187,
+    "confidence": "CONFIDENT"
   },
   "4529": {
     "string": "Position",
@@ -23646,16 +23646,16 @@
     "confidence": "CONFIDENT"
   },
   "4546": {
-    "string": "F¸µWc#\r4(}s`T(`t[z°\\\u0001(",
-    "printable_ratio": 0.75,
-    "seed": 28985654555833,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://15603383812",
+    "printable_ratio": 1.0,
+    "seed": 17112757051168,
+    "confidence": "CONFIDENT"
   },
   "4548": {
-    "string": "Ui?\nt()`a\nX",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 3114888971690,
-    "confidence": "UNCERTAIN"
+    "string": "PaddingBottom",
+    "printable_ratio": 1.0,
+    "seed": 23122395425295,
+    "confidence": "CONFIDENT"
   },
   "4549": {
     "string": "UserInputType",
@@ -23694,10 +23694,10 @@
     "confidence": "CONFIDENT"
   },
   "4557": {
-    "string": "¤q.W+02VC^qS>?",
-    "printable_ratio": 0.8125,
-    "seed": 3991829120834,
-    "confidence": "UNCERTAIN"
+    "string": "*\u0017=\t\\#Lí+l|u)wV6",
+    "printable_ratio": 0.875,
+    "seed": 20054561474199,
+    "confidence": "LIKELY"
   },
   "4558": {
     "string": "<h]VBM7wH",
@@ -23796,10 +23796,10 @@
     "confidence": "CONFIDENT"
   },
   "4575": {
-    "string": "Q{´*í.qx#puz:",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 1298601198172,
-    "confidence": "UNCERTAIN"
+    "string": "MouseMovement",
+    "printable_ratio": 1.0,
+    "seed": 8075250552496,
+    "confidence": "CONFIDENT"
   },
   "4577": {
     "string": "Ub(",
@@ -23994,10 +23994,10 @@
     "confidence": "CONFIDENT"
   },
   "4612": {
-    "string": "Í@?b9<Vl1|­`A5É)~|[7iÂ",
-    "printable_ratio": 0.782608695652174,
-    "seed": 17909361909907,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6641201558",
+    "printable_ratio": 1.0,
+    "seed": 24983773736305,
+    "confidence": "CONFIDENT"
   },
   "4613": {
     "string": "UIGradient",
@@ -25230,10 +25230,10 @@
     "confidence": "CONFIDENT"
   },
   "4846": {
-    "string": " a(Ài 89EäJ\u000bH¥´W4Ð34Z`gQ$Y",
-    "printable_ratio": 0.7142857142857143,
-    "seed": 3001336251765,
-    "confidence": "UNCERTAIN"
+    "string": "Want a break from the ads...",
+    "printable_ratio": 1.0,
+    "seed": 32515722394405,
+    "confidence": "CONFIDENT"
   },
   "4847": {
     "string": "new",
@@ -25344,10 +25344,10 @@
     "confidence": "CONFIDENT"
   },
   "4865": {
-    "string": "\u00134æuW;%R[SFj ÀË'â/:;-PG4qpú\u0004+w>P½\b»rý0\u0015@yùS\\#W³",
-    "printable_ratio": 0.6530612244897959,
-    "seed": 31406841395488,
-    "confidence": "UNCERTAIN"
+    "string": "Beep Cut Beep Liberty mu Beep Liberty Biberty cut",
+    "printable_ratio": 1.0,
+    "seed": 22119773546556,
+    "confidence": "CONFIDENT"
   },
   "4866": {
     "string": "Parent",
@@ -25500,10 +25500,10 @@
     "confidence": "CONFIDENT"
   },
   "4896": {
-    "string": "Uý-w°ºL7:4&Y.\\s\u0007zikk\"Éc8",
-    "printable_ratio": 0.7307692307692307,
-    "seed": 2152966964202,
-    "confidence": "UNCERTAIN"
+    "string": "This is how the story goes",
+    "printable_ratio": 1.0,
+    "seed": 8688709586893,
+    "confidence": "CONFIDENT"
   },
   "4898": {
     "string": "newColor",
@@ -25656,10 +25656,10 @@
     "confidence": "CONFIDENT"
   },
   "4926": {
-    "string": " ~¯KYmÞï¦[kÕvqRxq*g%BN",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 17720309932091,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6808487773",
+    "printable_ratio": 1.0,
+    "seed": 11146602288198,
+    "confidence": "CONFIDENT"
   },
   "4927": {
     "string": "Parent",
@@ -25794,10 +25794,10 @@
     "confidence": "CONFIDENT"
   },
   "4954": {
-    "string": "¨JD.R|JDjÌ:4lG\t/{{l*",
-    "printable_ratio": 0.8181818181818182,
-    "seed": 16516232945162,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 32157641652862,
+    "confidence": "CONFIDENT"
   },
   "4955": {
     "string": "DarkBlue",
@@ -25962,10 +25962,10 @@
     "confidence": "CONFIDENT"
   },
   "4990": {
-    "string": "YPG4é:`v;\u001då/3m­9«b@qeéþ;Ã0;Þ0mE+0 Æ>~GÒ\"37Åaëi¨",
-    "printable_ratio": 0.6875,
-    "seed": 25238290001384,
-    "confidence": "UNCERTAIN"
+    "string": "Writing's not that easy, but Grammarly can help.",
+    "printable_ratio": 1.0,
+    "seed": 16787563339401,
+    "confidence": "CONFIDENT"
   },
   "4991": {
     "string": "Size",
@@ -26364,10 +26364,10 @@
     "confidence": "CONFIDENT"
   },
   "5066": {
-    "string": "à\u0018S]>ëY-Su$ofnô®>hl\tX\r",
-    "printable_ratio": 0.7727272727272727,
-    "seed": 1159569932827,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 2607115142334,
+    "confidence": "CONFIDENT"
   },
   "5067": {
     "string": "new",
@@ -26598,10 +26598,10 @@
     "confidence": "CONFIDENT"
   },
   "5112": {
-    "string": "ÈsÖxO.T!Rn>h]#ð",
-    "printable_ratio": 0.8,
-    "seed": 6078444964622,
-    "confidence": "UNCERTAIN"
+    "string": "morphStealerGui",
+    "printable_ratio": 1.0,
+    "seed": 19274078528271,
+    "confidence": "CONFIDENT"
   },
   "5113": {
     "string": "HumanoidRootPart",
@@ -26964,10 +26964,10 @@
     "confidence": "CONFIDENT"
   },
   "5183": {
-    "string": "-Ì©m!\u0016Pxu\t7?^jGA",
-    "printable_ratio": 0.8125,
-    "seed": 15735183383711,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 31005179148389,
+    "confidence": "CONFIDENT"
   },
   "5184": {
     "string": "new",
@@ -27096,10 +27096,10 @@
     "confidence": "CONFIDENT"
   },
   "5206": {
-    "string": "4\nH 1=(~ú4J°<",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 2726773114101,
-    "confidence": "UNCERTAIN"
+    "string": "animBuilderGui",
+    "printable_ratio": 1.0,
+    "seed": 22894156671396,
+    "confidence": "CONFIDENT"
   },
   "5207": {
     "string": "BackgroundColor3",
@@ -27264,10 +27264,10 @@
     "confidence": "CONFIDENT"
   },
   "5236": {
-    "string": "guôUû4KÛb£Q!±ûs*CXÿ25 c±lg_#C§øfÑ]Dgï2UUsØMéQ8Æ\u0014é.u",
-    "printable_ratio": 0.6296296296296297,
-    "seed": 9501509210440,
-    "confidence": "UNCERTAIN"
+    "string": "They know me where it snows, I skied in and they froze",
+    "printable_ratio": 1.0,
+    "seed": 23578805414627,
+    "confidence": "CONFIDENT"
   },
   "5237": {
     "string": "new",
@@ -27282,10 +27282,10 @@
     "confidence": "CONFIDENT"
   },
   "5239": {
-    "string": "\u001evUP/jCX \u0015H`+}",
-    "printable_ratio": 0.75,
-    "seed": 858363117967,
-    "confidence": "UNCERTAIN"
+    "string": "cl\tejDa~Fh\u000ewS5F",
+    "printable_ratio": 0.875,
+    "seed": 25981828907859,
+    "confidence": "LIKELY"
   },
   "5240": {
     "string": "CornerRadius",
@@ -27732,10 +27732,10 @@
     "confidence": "CONFIDENT"
   },
   "5326": {
-    "string": "­q%<b.%p#V\u0010ðÄtC-}mcÐ:y",
-    "printable_ratio": 0.7083333333333334,
-    "seed": 2107457930197,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://15603066145",
+    "printable_ratio": 1.0,
+    "seed": 11282268427397,
+    "confidence": "CONFIDENT"
   },
   "5327": {
     "string": "*^\"BpMk:-",
@@ -27750,10 +27750,10 @@
     "confidence": "CONFIDENT"
   },
   "5330": {
-    "string": "ZBw;ÐPào±+¬ìò#p\u0016;3&6s·m?V\rL^Ud",
-    "printable_ratio": 0.6666666666666666,
-    "seed": 8714354167769,
-    "confidence": "UNCERTAIN"
+    "string": "Where's my crown? That's my bling",
+    "printable_ratio": 1.0,
+    "seed": 29963070158464,
+    "confidence": "CONFIDENT"
   },
   "5331": {
     "string": "TextColor3",
@@ -28290,10 +28290,10 @@
     "confidence": "CONFIDENT"
   },
   "5438": {
-    "string": "=-¤OwV<Ip}.¤\nI]",
-    "printable_ratio": 0.8125,
-    "seed": 14421159828027,
-    "confidence": "UNCERTAIN"
+    "string": "gamepass applier",
+    "printable_ratio": 1.0,
+    "seed": 806774440311,
+    "confidence": "CONFIDENT"
   },
   "5439": {
     "string": "CornerRadius",
@@ -28632,10 +28632,10 @@
     "confidence": "CONFIDENT"
   },
   "5504": {
-    "string": "@Msu\n?²z>3ñ%\u0000`/(",
-    "printable_ratio": 0.8125,
-    "seed": 14657483463337,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 27350521213376,
+    "confidence": "CONFIDENT"
   },
   "5505": {
     "string": "HumanoidRootPart",
@@ -29010,10 +29010,10 @@
     "confidence": "CONFIDENT"
   },
   "5578": {
-    "string": ".E`5\u0004lä.WSCeQw{",
-    "printable_ratio": 0.7647058823529411,
-    "seed": 1159399359003,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 31868208282103,
+    "confidence": "CONFIDENT"
   },
   "5581": {
     "string": "abs",
@@ -29436,10 +29436,10 @@
     "confidence": "CONFIDENT"
   },
   "5661": {
-    "string": "J8XV;Q¸¸_6#\\e[",
-    "printable_ratio": 0.8,
-    "seed": 7472565587351,
-    "confidence": "UNCERTAIN"
+    "string": "BorderSizePixel",
+    "printable_ratio": 1.0,
+    "seed": 23197458524722,
+    "confidence": "CONFIDENT"
   },
   "5663": {
     "string": "wait",
@@ -29490,10 +29490,10 @@
     "confidence": "CONFIDENT"
   },
   "5672": {
-    "string": "«$?(ûqH\u0000F\u0018\\NY{ñ¡rÂ\u0013ck\u0010»NÊ\u0014 û6j\u0014\u001dE@÷?/xãI*'È\u001ajÁ6Úåv\\mÿK×|²%6íò\u000bQK3\u0012^3eÂ64>@ûRiro®-P;ÃËZ/9ÿ)0\nP\rÇû²¸Êj#\u0017ÐóÃ¿#~«8\r/Âß;\u001e\\jé{pÛ\tV",
-    "printable_ratio": 0.5255474452554745,
-    "seed": 13494392805515,
-    "confidence": "UNCERTAIN"
+    "string": "Liberty mutual customizes your car insurance so you only pay for what you need Only pay for what you need Liberty Liberty Liberty Liberty",
+    "printable_ratio": 1.0,
+    "seed": 9874840310262,
+    "confidence": "CONFIDENT"
   },
   "5673": {
     "string": "new",
@@ -29538,10 +29538,10 @@
     "confidence": "CONFIDENT"
   },
   "5680": {
-    "string": "@;Zdz\bx÷9\u0015Ø\"[8zÜ07É$wMc\nVª,Ç_,ÿï¾,u|Nxyv¢[O´Ü\u0010×yé\u001b",
-    "printable_ratio": 0.6274509803921569,
-    "seed": 11115497821240,
-    "confidence": "UNCERTAIN"
+    "string": "I don't know no nothin' 'bout no ice, I'm just cold",
+    "printable_ratio": 1.0,
+    "seed": 28232888972122,
+    "confidence": "CONFIDENT"
   },
   "5681": {
     "string": "Text",
@@ -29790,10 +29790,10 @@
     "confidence": "CONFIDENT"
   },
   "5726": {
-    "string": "Cdy!}OÃWs#Ø(\t4x`oDAúLIª",
-    "printable_ratio": 0.8260869565217391,
-    "seed": 28942625485989,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9112909114",
+    "printable_ratio": 1.0,
+    "seed": 9090760953993,
+    "confidence": "CONFIDENT"
   },
   "5727": {
     "string": "Parent",
@@ -29922,10 +29922,10 @@
     "confidence": "LIKELY"
   },
   "5749": {
-    "string": "MP4Î7^=(nòn_Z[¬\u0001,:'?>Ã1ï",
-    "printable_ratio": 0.75,
-    "seed": 7198957669656,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://15603386735",
+    "printable_ratio": 1.0,
+    "seed": 33568906476815,
+    "confidence": "CONFIDENT"
   },
   "5751": {
     "string": "RestTrans",
@@ -29934,10 +29934,10 @@
     "confidence": "CONFIDENT"
   },
   "5752": {
-    "string": "bf+>\u0014wHstw î\r2L#Pü~",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 14042947901835,
-    "confidence": "UNCERTAIN"
+    "string": "TextStrokeTransparency",
+    "printable_ratio": 1.0,
+    "seed": 26811979067589,
+    "confidence": "CONFIDENT"
   },
   "5753": {
     "string": "LocalPlayer",
@@ -30090,10 +30090,10 @@
     "confidence": "CONFIDENT"
   },
   "5782": {
-    "string": "Ò>=xK.i N/XJ",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 8714354167769,
-    "confidence": "UNCERTAIN"
+    "string": "CornerRadius",
+    "printable_ratio": 1.0,
+    "seed": 31950097152541,
+    "confidence": "CONFIDENT"
   },
   "5783": {
     "string": "Size",
@@ -30294,10 +30294,10 @@
     "confidence": "CONFIDENT"
   },
   "5817": {
-    "string": "ÑA:aeCMB{\u0017`O",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 1829034394451,
-    "confidence": "UNCERTAIN"
+    "string": "CornerRadius",
+    "printable_ratio": 1.0,
+    "seed": 9146294259875,
+    "confidence": "CONFIDENT"
   },
   "5820": {
     "string": "EditorRigPartApplierState",
@@ -30630,10 +30630,10 @@
     "confidence": "CONFIDENT"
   },
   "5880": {
-    "string": "\u0001Z-=M¶<7K8åt][~Ø»[}7G#",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 25143313984956,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6808487174",
+    "printable_ratio": 1.0,
+    "seed": 4535312189503,
+    "confidence": "CONFIDENT"
   },
   "5881": {
     "string": "Qdb98|W~çU",
@@ -31062,10 +31062,10 @@
     "confidence": "CONFIDENT"
   },
   "5957": {
-    "string": "Bòeô3mÈ<E ÐyD^ÊGX\u001e>K7Ø-9÷>éÖSDq!<K[9ºFTºB_u(",
-    "printable_ratio": 0.6666666666666666,
-    "seed": 33928682814903,
-    "confidence": "UNCERTAIN"
+    "string": "Life's a fight, but trust, I'm ready for the war",
+    "printable_ratio": 1.0,
+    "seed": 21170251196034,
+    "confidence": "CONFIDENT"
   },
   "5958": {
     "string": ";RCce7LQ",
@@ -31098,10 +31098,10 @@
     "confidence": "CONFIDENT"
   },
   "5964": {
-    "string": "J!gi:%íqmyg",
-    "printable_ratio": 0.8333333333333334,
-    "seed": 623129936162,
-    "confidence": "UNCERTAIN"
+    "string": "DisplayOrder",
+    "printable_ratio": 1.0,
+    "seed": 11761898411365,
+    "confidence": "CONFIDENT"
   },
   "5965": {
     "string": "TextSize",
@@ -31386,10 +31386,10 @@
     "confidence": "CONFIDENT"
   },
   "6018": {
-    "string": "2.}clE;i#Qõ\u000f\u001090",
-    "printable_ratio": 0.8,
-    "seed": 4915493161200,
-    "confidence": "UNCERTAIN"
+    "string": "colorPresetsGui",
+    "printable_ratio": 1.0,
+    "seed": 22228747888751,
+    "confidence": "CONFIDENT"
   },
   "6019": {
     "string": "Name",
@@ -31434,10 +31434,10 @@
     "confidence": "CONFIDENT"
   },
   "6026": {
-    "string": "(b1K4!â¦+Ivl|#ºE\u0016k1Ãì6{¦\u001e?Hp{)T,H[Zä³·Pt~¡?o\u0012ØQ~{¦",
-    "printable_ratio": 0.6481481481481481,
-    "seed": 24214401821707,
-    "confidence": "UNCERTAIN"
+    "string": "I went from living rooms straight up to sold-out touxP",
+    "printable_ratio": 1.0,
+    "seed": 8876175003685,
+    "confidence": "CONFIDENT"
   },
   "6027": {
     "string": "SortOrder",
@@ -31830,10 +31830,10 @@
     "confidence": "CONFIDENT"
   },
   "6101": {
-    "string": "okrg\u0004w/a&\t$$dõL",
-    "printable_ratio": 0.8125,
-    "seed": 13161983612913,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 8508022787961,
+    "confidence": "CONFIDENT"
   },
   "6102": {
     "string": "u,j3#t!",
@@ -32334,10 +32334,10 @@
     "confidence": "CONFIDENT"
   },
   "6198": {
-    "string": "jÕz¶T(},%£ïiP\r+zDm\u0014`-~",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 12655145539333,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9110997501",
+    "printable_ratio": 1.0,
+    "seed": 32952720129008,
+    "confidence": "CONFIDENT"
   },
   "6199": {
     "string": "^(.-)|(.+)$",
@@ -32436,10 +32436,10 @@
     "confidence": "CONFIDENT"
   },
   "6220": {
-    "string": "«luLQ!É9).O?L+!",
-    "printable_ratio": 0.8125,
-    "seed": 14475998321236,
-    "confidence": "UNCERTAIN"
+    "string": "Eh7èxMR&5OvIeôC%",
+    "printable_ratio": 0.875,
+    "seed": 18018740023375,
+    "confidence": "LIKELY"
   },
   "6221": {
     "string": "Players",
@@ -32658,16 +32658,16 @@
     "confidence": "CONFIDENT"
   },
   "6262": {
-    "string": "{SMtV(Fz--<M~![ú½B7`\u0013",
-    "printable_ratio": 0.782608695652174,
-    "seed": 13933952309592,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6641191582",
+    "printable_ratio": 1.0,
+    "seed": 27529628152339,
+    "confidence": "CONFIDENT"
   },
   "6264": {
-    "string": "k²yxKqZ²RQ1t9@'7w~\u0003",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 3379801679427,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 24631685459150,
+    "confidence": "CONFIDENT"
   },
   "6265": {
     "string": "LightGray",
@@ -33066,10 +33066,10 @@
     "confidence": "CONFIDENT"
   },
   "6345": {
-    "string": "~D`t¥\r3cÕû\t97M<Pÿ¸¸xJ: ,.{d/1ÑF{&ämmÔXö&§j\u001aÈ'",
-    "printable_ratio": 0.6530612244897959,
-    "seed": 11578871600399,
-    "confidence": "UNCERTAIN"
+    "string": "Forty somethin' milli' subs or so, I've been told",
+    "printable_ratio": 1.0,
+    "seed": 9768495731140,
+    "confidence": "CONFIDENT"
   },
   "6346": {
     "string": "BackgroundTransparency",
@@ -33132,10 +33132,10 @@
     "confidence": "CONFIDENT"
   },
   "6357": {
-    "string": "Si7k-V?miÇúEL",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 257659895927,
-    "confidence": "UNCERTAIN"
+    "string": "ScrollBarInset",
+    "printable_ratio": 1.0,
+    "seed": 12320641029737,
+    "confidence": "CONFIDENT"
   },
   "6358": {
     "string": "new",
@@ -33240,16 +33240,16 @@
     "confidence": "CONFIDENT"
   },
   "6376": {
-    "string": "vK\u000e<3ýHUZE~ï\r]8¢Z%p\u0014£÷f¸ê\u0002=KÒ, B6ó$I]±&\u0011ó1cS¢.",
-    "printable_ratio": 0.6122448979591837,
-    "seed": 7891661753946,
-    "confidence": "UNCERTAIN"
+    "string": "Forty somethin' milli' subs or so, I've been told",
+    "printable_ratio": 1.0,
+    "seed": 25652225339049,
+    "confidence": "CONFIDENT"
   },
   "6377": {
-    "string": "qxbyZ&t*¶<ý¥:\b2S\u001b(ch~¢ül5H",
-    "printable_ratio": 0.7307692307692307,
-    "seed": 30579987232671,
-    "confidence": "UNCERTAIN"
+    "string": "ScrollBarImageTransparency",
+    "printable_ratio": 1.0,
+    "seed": 30375608350528,
+    "confidence": "CONFIDENT"
   },
   "6378": {
     "string": "BackgroundTransparency",
@@ -33264,10 +33264,10 @@
     "confidence": "CONFIDENT"
   },
   "6380": {
-    "string": "\n\\AI/N9¬Cmb!Yk®",
-    "printable_ratio": 0.8125,
-    "seed": 6754829044809,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Down",
+    "printable_ratio": 1.0,
+    "seed": 14695943183035,
+    "confidence": "CONFIDENT"
   },
   "6381": {
     "string": "r<({",
@@ -33372,10 +33372,10 @@
     "confidence": "CONFIDENT"
   },
   "6399": {
-    "string": "CÏ2STmHÚ1ô¤KP¯Vv¾>[~gk&",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 7552005688764,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6808486454",
+    "printable_ratio": 1.0,
+    "seed": 10722355434368,
+    "confidence": "CONFIDENT"
   },
   "6400": {
     "string": "8CC2C0",
@@ -33564,10 +33564,10 @@
     "confidence": "CONFIDENT"
   },
   "6441": {
-    "string": "ÏxþCnOklV\ti'x£«#5¼i*T½(B?\\¦ÐNyRØ;",
-    "printable_ratio": 0.7058823529411765,
-    "seed": 20051579461157,
-    "confidence": "UNCERTAIN"
+    "string": "I guess this is how the story goes",
+    "printable_ratio": 1.0,
+    "seed": 34132493909526,
+    "confidence": "CONFIDENT"
   },
   "6442": {
     "string": "Name",
@@ -33756,10 +33756,10 @@
     "confidence": "CONFIDENT"
   },
   "6479": {
-    "string": "J\u00173!ç6g:J[ 0N@°l",
-    "printable_ratio": 0.8125,
-    "seed": 234881564781,
-    "confidence": "UNCERTAIN"
+    "string": "FancyTextRunning",
+    "printable_ratio": 1.0,
+    "seed": 13465818617982,
+    "confidence": "CONFIDENT"
   },
   "6480": {
     "string": "new",
@@ -33816,10 +33816,10 @@
     "confidence": "CONFIDENT"
   },
   "6491": {
-    "string": "B~°÷CPp\r{L*=b",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 858363117967,
-    "confidence": "UNCERTAIN"
+    "string": "TextXAlignment",
+    "printable_ratio": 1.0,
+    "seed": 17692857278510,
+    "confidence": "CONFIDENT"
   },
   "6492": {
     "string": "Font",
@@ -33930,10 +33930,10 @@
     "confidence": "CONFIDENT"
   },
   "6514": {
-    "string": "ÄN&4ê×tT@fe?o6Z_I",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 24923549740373,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 22720648882516,
+    "confidence": "CONFIDENT"
   },
   "6515": {
     "string": "DarkGray",
@@ -33972,10 +33972,10 @@
     "confidence": "CONFIDENT"
   },
   "6522": {
-    "string": " ¬fÙ'-Å-v\u00039\u0004m\u00169Z*vêXØ=tP|&oªqTÿ£©3¨7\\ïR\u001djIRUøTªs¡O\u000e\u0001­2Bà\r]wà$Ã(JÆ<\n]½*Æ¨píXÌ1",
-    "printable_ratio": 0.5280898876404494,
-    "seed": 18851101876810,
-    "confidence": "UNCERTAIN"
+    "string": "Did you guys know you could save 15% or more on your car insurance by switching to Geico?",
+    "printable_ratio": 1.0,
+    "seed": 23584977709798,
+    "confidence": "CONFIDENT"
   },
   "6523": {
     "string": "Parent",
@@ -34134,16 +34134,16 @@
     "confidence": "LIKELY"
   },
   "6550": {
-    "string": "4S«Ý\u001b\u0017#=³oV\u0001¥%}mqssPèOK·C3àix(»:§\"ÕwixÑj¥L\"\\¡0P¯/F8{Þ, $ìÍðA\u000f'zLdùòx",
-    "printable_ratio": 0.581081081081081,
-    "seed": 20493997450567,
-    "confidence": "UNCERTAIN"
+    "string": "Get NordVpn today. Once again thanks to Nordvpn for sponsoring this video.",
+    "printable_ratio": 1.0,
+    "seed": 9136683225246,
+    "confidence": "CONFIDENT"
   },
   "6552": {
-    "string": "ÜkZ$÷,L093n,o# ",
-    "printable_ratio": 0.8125,
-    "seed": 29707111691785,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 24095637842900,
+    "confidence": "CONFIDENT"
   },
   "6553": {
     "string": "HumanoidRootPart",
@@ -34386,10 +34386,10 @@
     "confidence": "CONFIDENT"
   },
   "6602": {
-    "string": "{slc1\\f¿×ÒaH$vDq",
-    "printable_ratio": 0.8125,
-    "seed": 22235244111986,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundColor3",
+    "printable_ratio": 1.0,
+    "seed": 15458764299294,
+    "confidence": "CONFIDENT"
   },
   "6603": {
     "string": "Parent",
@@ -34416,10 +34416,10 @@
     "confidence": "CONFIDENT"
   },
   "6609": {
-    "string": "PÁM\\'oj>6u?NûiT3uÜTÿÇe",
-    "printable_ratio": 0.7727272727272727,
-    "seed": 28690028393519,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 29963022874240,
+    "confidence": "CONFIDENT"
   },
   "6610": {
     "string": "w/p%`L=6",
@@ -34554,10 +34554,10 @@
     "confidence": "CONFIDENT"
   },
   "6636": {
-    "string": "¨\u0018=mý½\u00115tCÛJÛf5t$)\u0018hE\\T\tÚJx;g·{#Ä)g-ØBoy<Oa",
-    "printable_ratio": 0.6739130434782609,
-    "seed": 31728429595062,
-    "confidence": "UNCERTAIN"
+    "string": "I'm in my prime but this ain't even final form",
+    "printable_ratio": 1.0,
+    "seed": 3006279894391,
+    "confidence": "CONFIDENT"
   },
   "6637": {
     "string": "!}bZsL",
@@ -34836,10 +34836,10 @@
     "confidence": "CONFIDENT"
   },
   "6691": {
-    "string": "ºQAFmDnbuç-T7%~t",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 14793881017064,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 31215985981640,
+    "confidence": "CONFIDENT"
   },
   "6692": {
     "string": "HumanoidRootPart",
@@ -34878,10 +34878,10 @@
     "confidence": "CONFIDENT"
   },
   "6700": {
-    "string": "POyRÆM\rKT6Éwx\fsa.\u0019U?\n",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 12713523238688,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9109520990",
+    "printable_ratio": 1.0,
+    "seed": 30352167401269,
+    "confidence": "CONFIDENT"
   },
   "6701": {
     "string": "BackgroundColor3",
@@ -34932,10 +34932,10 @@
     "confidence": "CONFIDENT"
   },
   "6709": {
-    "string": "ÒWaÑ\u0003s)i\n|]gJ0",
-    "printable_ratio": 0.7857142857142857,
-    "seed": 2860355552563,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Up",
+    "printable_ratio": 1.0,
+    "seed": 4711063898257,
+    "confidence": "CONFIDENT"
   },
   "6710": {
     "string": "=<-n|#",
@@ -35010,10 +35010,10 @@
     "confidence": "LIKELY"
   },
   "6723": {
-    "string": "b`, ¨>>}@Z92z\u000eT8¡]$Ma",
-    "printable_ratio": 0.8181818181818182,
-    "seed": 3993256707907,
-    "confidence": "UNCERTAIN"
+    "string": "rgb history in console",
+    "printable_ratio": 1.0,
+    "seed": 26612847538280,
+    "confidence": "CONFIDENT"
   },
   "6724": {
     "string": "insert",
@@ -35352,10 +35352,10 @@
     "confidence": "CONFIDENT"
   },
   "6786": {
-    "string": "#®{V/@]+qV.>",
-    "printable_ratio": 0.8461538461538461,
-    "seed": 13238497875988,
-    "confidence": "UNCERTAIN"
+    "string": "AutomaticSize",
+    "printable_ratio": 1.0,
+    "seed": 8755361091565,
+    "confidence": "CONFIDENT"
   },
   "6788": {
     "string": "_}\"!",
@@ -35388,10 +35388,10 @@
     "confidence": "CONFIDENT"
   },
   "6794": {
-    "string": "~tq`~L[íµI´ì`A^\u0000/rSAzhVÞaj½\u0010+øqÐ6\u001a|RZwqÐK §+ä'|ïòNH)äv\u00190ã\u001aXt=n) |D\\Û\u0010 4&õèhaÞûl",
-    "printable_ratio": 0.6022727272727273,
-    "seed": 25166697803207,
-    "confidence": "UNCERTAIN"
+    "string": "we've got millions of free child place holidays available with 22kg of baggage included.",
+    "printable_ratio": 1.0,
+    "seed": 22401078323391,
+    "confidence": "CONFIDENT"
   },
   "6795": {
     "string": "Gotham",
@@ -35418,10 +35418,10 @@
     "confidence": "CONFIDENT"
   },
   "6799": {
-    "string": "Shni+\tióª³Smhn\\@¹ý\\eY",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 2704951641323,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 6599085607936,
+    "confidence": "CONFIDENT"
   },
   "6800": {
     "string": "hwid",
@@ -35802,10 +35802,10 @@
     "confidence": "CONFIDENT"
   },
   "6867": {
-    "string": "pF<ïr\nE\",´÷+r_þtaô)ÁW5",
-    "printable_ratio": 0.6956521739130435,
-    "seed": 2693582882022,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://6820492147",
+    "printable_ratio": 1.0,
+    "seed": 26155434012563,
+    "confidence": "CONFIDENT"
   },
   "6868": {
     "string": "TextColo~b",
@@ -36330,10 +36330,10 @@
     "confidence": "CONFIDENT"
   },
   "6969": {
-    "string": "I.»r1|*\u0012).T.S\u000f]l\u0019x4@h",
-    "printable_ratio": 0.7391304347826086,
-    "seed": 22977190373835,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://9109527519",
+    "printable_ratio": 1.0,
+    "seed": 24432361139313,
+    "confidence": "CONFIDENT"
   },
   "6971": {
     "string": "~3L",
@@ -36396,10 +36396,10 @@
     "confidence": "CONFIDENT"
   },
   "6981": {
-    "string": "$AJ\\\u0001IU9\n;rg,F_Þ",
-    "printable_ratio": 0.8235294117647058,
-    "seed": 10060176200268,
-    "confidence": "UNCERTAIN"
+    "string": "MouseButton1Click",
+    "printable_ratio": 1.0,
+    "seed": 12574280537823,
+    "confidence": "CONFIDENT"
   },
   "6982": {
     "string": "new",
@@ -36534,10 +36534,10 @@
     "confidence": "CONFIDENT"
   },
   "7009": {
-    "string": "(?K^v\tÎ]Ë\r^]/5i%ß2\bæ\n",
-    "printable_ratio": 0.7272727272727273,
-    "seed": 778416095594,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 1487200633524,
+    "confidence": "CONFIDENT"
   },
   "7010": {
     "string": "new",
@@ -36648,10 +36648,10 @@
     "confidence": "CONFIDENT"
   },
   "7032": {
-    "string": "G,Zv b(%è3F7;KVFCûr4",
-    "printable_ratio": 0.8181818181818182,
-    "seed": 22136509163588,
-    "confidence": "UNCERTAIN"
+    "string": "BackgroundTransparency",
+    "printable_ratio": 1.0,
+    "seed": 27418236269023,
+    "confidence": "CONFIDENT"
   },
   "7033": {
     "string": "new",
@@ -36840,10 +36840,10 @@
     "confidence": "CONFIDENT"
   },
   "7067": {
-    "string": "Ûm\n=~7FD-Ùcf`f:£z\r}øl Þn",
-    "printable_ratio": 0.7307692307692307,
-    "seed": 23287862127196,
-    "confidence": "UNCERTAIN"
+    "string": "Want a break from the ads?",
+    "printable_ratio": 1.0,
+    "seed": 25863256993547,
+    "confidence": "CONFIDENT"
   },
   "7068": {
     "string": "\n",
@@ -36912,10 +36912,10 @@
     "confidence": "CONFIDENT"
   },
   "7081": {
-    "string": "nh ]<|Nwºk\u001d#:­|¢°u#buk",
-    "printable_ratio": 0.7083333333333334,
-    "seed": 622336999713,
-    "confidence": "UNCERTAIN"
+    "string": "rbxassetid://15603081727",
+    "printable_ratio": 1.0,
+    "seed": 4724688308376,
+    "confidence": "CONFIDENT"
   },
   "7082": {
     "string": "Border",

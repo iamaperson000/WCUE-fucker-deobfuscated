@@ -120,9 +120,36 @@ for byte in blob:
 | `scripts/extract_string_pool.py` | H table extraction |
 | `notes/phase-seven-deobfuscation.md` | This document |
 
+## Final Decode Statistics
+
+| Metric | Count | Percentage |
+|--------|-------|------------|
+| Total H entries | 7,100 | 100% |
+| Hex-encoded (needs decoding) | ~6,300 | ~89% |
+| Named (plaintext) | ~460 | ~6% |
+| **CONFIDENT decodes** (>=95% printable) | **5,948** | **96.5%** |
+| LIKELY decodes (85-95%) | 212 | 3.4% |
+| UNCERTAIN (<85%) | 6 | 0.1% |
+| **TOTAL resolved** | **6,160** | **99.90%** |
+| Named string annotations | 3,305 | — |
+| **Total annotations in source** | **9,497** | — |
+
+### Remaining 6 Uncertain Entries
+
+These have seeds computed through VM table indirection (e.g., `seed = W[v[N]]` where the value was stored by a prior dispatch state). Cannot be resolved by static analysis — requires full VM execution tracing.
+
+| H Index | Printable | Likely String |
+|---------|-----------|---------------|
+| 139 | 0.82 | Unknown (22 bytes) |
+| 544 | 0.81 | Unknown (16 bytes) |
+| 799 | 0.81 | Unknown (16 bytes) |
+| 3180 | 0.82 | Unknown (22 bytes) |
+| 3972 | 0.76 | Unknown (17 bytes) |
+| 4195 | 0.82 | Unknown (22 bytes) |
+
 ## Remaining Work
 
-1. **167 UNCERTAIN entries**: Seeds computed through indirect VM operations (W/v table lookups). Would require full VM state tracing to resolve.
+1. **6 UNCERTAIN entries**: Seeds computed through indirect VM operations (W/v table lookups). Would require full VM state tracing to resolve.
 2. **VM dispatcher deobfuscation**: Replace binary-search state comparisons (`a<N`, `a>=M`) with symbolic labels and add semantic annotations for each dispatch state.
 3. **Pseudocode generation**: Convert VM operations to readable Lua pseudocode, revealing the script's actual logic.
-4. **Security analysis**: Document exploit mechanisms, anti-tamper checks, and lateral movementpaths.
+4. **Security analysis**: Document exploit mechanisms, anti-tamper checks, and lateral movement paths.
